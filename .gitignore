@@ -1,0 +1,12 @@
+#Browser Extension
+browser-extensions-master/node_modules/
+browser-extensions-master/build/
+browser-extensions-master/dist/
+browser-extensions-master/package-lock.json
+browser-extensions-master/tsc/
+
+#Privates
+gemini_api/api_key.py
+
+#IP Website
+website/
