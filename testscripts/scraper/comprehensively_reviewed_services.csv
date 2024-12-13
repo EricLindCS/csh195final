@@ -1,0 +1,477 @@
+id,is_comprehensively_reviewed,name,updated_at,created_at,slug,rating,urls,image
+1946,True,Telegram,2021-07-10T12:33:34.512Z,2019-10-28T13:27:25.649Z,telegram,B,"['telegram.org', 'telegram.dog', 't.me']",https://s3.tosdr.org/logos/1946.png
+327,True,RiseUp.net,2022-12-13T17:44:43.336Z,2018-01-24T09:26:59.541Z,riseupnet,B,"['riseup.net', 'nzh3fv6jc6jskki3.onion', 'vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion']",https://s3.tosdr.org/logos/327.png
+511,True,MyAnimeList,2023-07-10T22:00:22.305Z,2018-06-03T04:08:35.289Z,myanimelist,D,['myanimelist.net'],https://s3.tosdr.org/logos/511.png
+230,True,PayPal,2023-07-10T22:00:22.632Z,2018-01-16T15:26:06.469Z,paypal,E,"['paypal.com', 'paypal-corp.com', 'paypal.me', 'paypalobjects.com', 'paypal-gifts.com', 'paypal-communication.com', 'epl.paypal-communication.com']",https://s3.tosdr.org/logos/230.png
+460,True,Credit Karma,2023-07-10T22:00:22.802Z,2018-05-08T12:19:45.193Z,credit_karma,E,['creditkarma.com'],https://s3.tosdr.org/logos/460.png
+262,True,Symbaloo,2023-07-10T22:00:22.974Z,2018-01-16T15:26:07.063Z,symbaloo,D,['symbaloo.com'],https://s3.tosdr.org/logos/262.png
+158,True,Apple Services,2023-07-10T22:00:23.609Z,2018-01-16T15:26:04.975Z,apple,D,"['apple.com', 'shazam.com', 'webkit.org', 'cdn-apple.com', 'apple.news']",https://s3.tosdr.org/logos/158.png
+306,True,Mega,2023-07-10T22:00:23.870Z,2018-01-16T15:26:07.925Z,mega,C,"['mega.nz', 'mega.io', 'g.api.mega.co.nz', 'mega.co.nz']",https://s3.tosdr.org/logos/306.png
+2136,True,Le Soir,2023-07-10T22:00:24.033Z,2020-01-25T16:48:24.979Z,le_soir,D,"['lesoir.be', 'rossel.be']",https://s3.tosdr.org/logos/2136.png
+183,True,CouchSurfing,2023-07-10T22:00:24.216Z,2018-01-16T15:26:05.544Z,couchsurfing,E,"['couchsurfing.org', 'couchsurfing.com']",https://s3.tosdr.org/logos/183.png
+186,True,Flickr,2023-07-10T22:00:24.338Z,2018-01-16T15:26:05.601Z,flickr,E,['flickr.com'],https://s3.tosdr.org/logos/186.png
+225,True,Spotify,2023-07-10T22:00:24.755Z,2018-01-16T15:26:06.332Z,spotify,E,"['spotify.com', 'spotifyforvendors.com', 'spotifyjobs.com']",https://s3.tosdr.org/logos/225.png
+251,True,Foursquare,2023-07-10T22:00:21.875Z,2018-01-16T15:26:06.895Z,foursquare,D,['foursquare.com'],https://s3.tosdr.org/logos/251.png
+208,True,Pure Dating,2023-07-10T22:00:22.103Z,2018-01-16T15:26:06.001Z,puredating,D,['pure.dating'],https://s3.tosdr.org/logos/208.png
+219,True,Instagram,2023-11-17T19:13:03.837Z,2018-01-16T15:26:06.211Z,instagram,E,"['instagram.com', 'help.instagram.com', 'about.instagram.com', 'threads.net']",https://s3.tosdr.org/logos/219.png
+3011,True,CollegeBoard,2024-06-21T06:05:42.844Z,2021-04-07T08:06:03.944Z,collegeboard,D,"['collegeboard.org', 'sat.org']",https://s3.tosdr.org/logos/3011.png
+3206,True,Parler,2021-05-03T22:11:53.908Z,2021-04-18T09:58:03.919Z,parler,B,['parler.com'],https://s3.tosdr.org/logos/3206.png
+969,True,ToS;DR Phoenix,2021-05-14T14:37:48.921Z,2018-12-21T00:57:18.464Z,tosdr_phoenix,A,['edit.tosdr.org'],https://s3.tosdr.org/logos/969.png
+2068,True,Surfshark,2023-07-10T22:00:25.587Z,2020-01-02T13:12:32.790Z,surfshark,D,['surfshark.com'],https://s3.tosdr.org/logos/2068.png
+989,True,Washington Post,2023-07-10T22:00:25.787Z,2018-12-21T19:32:18.374Z,washington_post,E,['washingtonpost.com'],https://s3.tosdr.org/logos/989.png
+2895,True,Line Corporation,2023-07-10T22:00:26.009Z,2021-03-29T17:52:03.165Z,line_corporation,E,"['linecorp.com', 'line.me']",https://s3.tosdr.org/logos/2895.png
+2315,True,Fandango,2021-03-25T03:19:51.888Z,2020-08-28T07:31:40.270Z,fandango,E,"['fandango.com', 'fandangonow.com', 'vudu.com', 'rottentomatoes.com', 'flixster.com', 'movieclips.com', 'movies.com', 'activaterewards.com', 'movietickets.com']",https://s3.tosdr.org/logos/2315.png
+2371,True,Vivaldi,2021-03-25T03:19:52.192Z,2020-10-20T14:19:37.195Z,vivaldi,B,['vivaldi.com'],https://s3.tosdr.org/logos/2371.png
+1597,True,Huawei,2023-07-10T22:00:27.298Z,2019-05-29T15:01:25.857Z,huawei,E,"['huawei.com', 'huaweimobileservices.com']",https://s3.tosdr.org/logos/1597.png
+2256,True,Fandom,2023-07-10T22:00:27.834Z,2020-05-25T17:16:51.261Z,fandom,E,"['fandom.com', 'fandom.co.uk', 'wikia.com', 'gamepedia.com', 'dndbeyond.com', 'muthead.com', 'futhead.com', 'playbook.gg', 'strawpoll.me']",https://s3.tosdr.org/logos/2256.png
+2220,True,AnonAddy,2021-04-25T18:32:34.245Z,2020-04-11T13:44:14.638Z,anonaddy,B,['anonaddy.com'],https://s3.tosdr.org/logos/2220.png
+3160,True,Rofkin,2021-06-13T22:00:12.970Z,2021-04-16T21:29:54.126Z,rofkin,B,['rokfin.com'],https://s3.tosdr.org/logos/3160.png
+356,True,SourceForge,2023-09-19T22:00:27.622Z,2018-05-08T12:19:43.188Z,sourceforge,D,['sourceforge.net'],https://s3.tosdr.org/logos/356.png
+2416,True,BitDefender,2021-03-25T03:19:56.514Z,2020-11-20T13:25:18.902Z,bitdefender,B,"['bitdefender.com', 'bitdefender.co.uk', 'bitdefender.fr', 'bitdefender.es', 'bitdefender.ru', 'bitdefender.de', 'bitdefender.it', 'bitdefender.pt', 'bitdefender.nl', 'bitdefender.co.jp', 'bitdefender.com.au', 'bitdefender.be', 'bitdefender.com.br', 'bitdefender.ro', 'bitdefender.in', 'bitdefender.pl', 'bitdefender.com.tw', 'bitdefender.my', 'bitdefender.co.th', 'bitdefender.vn', 'bitdefender.cz', 'bitdefender.com.ua', 'bitdefender.gr', 'bitdefender.com.hr', 'bitdefender.com.tr', '']",https://s3.tosdr.org/logos/2416.png
+165,True,Goodreads,2023-07-10T22:00:29.948Z,2018-01-16T15:26:05.158Z,goodreads,E,['goodreads.com'],https://s3.tosdr.org/logos/165.png
+177,True,Wikimedia,2022-07-07T12:10:05.246Z,2018-01-16T15:26:05.437Z,wikimedia,B,"['wikimedia.org', 'wikimediafoundation.org', 'wikiquote.org', 'wikiversity.org', 'wikidata.org', 'wikivoyage.org', 'wikibooks.org', 'wikinews.org', 'wiktionary.org', 'wikisource.org']",https://s3.tosdr.org/logos/177.png
+2491,True,Gfycat,2023-07-10T22:00:30.732Z,2021-01-01T23:13:03.751Z,gfycat,E,['gfycat.com'],https://s3.tosdr.org/logos/2491.png
+3115,True,L'Equipe,2023-07-10T22:00:31.143Z,2021-04-13T22:04:51.645Z,lequipe,D,"['lequipe.fr', 'francefootball.fr']",https://s3.tosdr.org/logos/3115.png
+2140,True,LauraKalbag,2023-07-10T22:00:31.183Z,2020-01-30T14:39:53.059Z,laurakalbag,C,['laurakalbag.com'],https://s3.tosdr.org/logos/2140.png
+2540,True,El Mundo (Spain),2023-07-10T22:00:31.305Z,2021-01-16T15:30:37.446Z,el_mundo_spain,D,['elmundo.es'],https://s3.tosdr.org/logos/2540.png
+2543,True,Le Parisien,2023-07-10T22:00:31.919Z,2021-01-16T16:05:30.513Z,le_parisien,E,"['leparisien.fr', 'aujourdhuienfrance.fr']",https://s3.tosdr.org/logos/2543.png
+2702,True,Douban,2023-07-10T22:00:32.058Z,2021-02-04T21:02:06.229Z,douban,D,['douban.com'],https://s3.tosdr.org/logos/2702.png
+2530,True,United States Postal Service,2023-07-10T22:00:30.404Z,2021-01-16T10:51:12.895Z,united_states_postal_service,C,['usps.com'],https://s3.tosdr.org/logos/2530.png
+3015,True,Session,2021-05-23T19:12:00.264Z,2021-04-07T19:40:41.793Z,session,B,['getsession.org'],https://s3.tosdr.org/logos/3015.png
+3395,True,OpenHAB,2021-06-14T15:59:22.277Z,2021-05-01T21:07:39.081Z,openhab,B,['openhab.org'],https://s3.tosdr.org/logos/3395.png
+384,True,Pocket,2023-07-10T22:00:33.295Z,2018-05-08T12:19:43.743Z,pocket,D,['getpocket.com'],https://s3.tosdr.org/logos/384.png
+2074,True,Letterboxd,2023-07-10T22:00:32.508Z,2020-01-02T19:26:46.822Z,letterboxd,C,['letterboxd.com'],https://s3.tosdr.org/logos/2074.png
+2865,True,DrugBank,2023-07-10T22:00:32.899Z,2021-03-26T19:03:11.902Z,drugbank,D,['drugbank.com'],https://s3.tosdr.org/logos/2865.png
+628,True,SpigotMC,2021-11-05T14:10:05.774Z,2018-07-25T16:47:37.436Z,spigotmc,B,['spigotmc.org'],https://s3.tosdr.org/logos/628.png
+2947,True,Skillshare,2023-09-19T22:00:32.717Z,2021-04-03T18:13:54.831Z,skillshare,D,['skillshare.com'],https://s3.tosdr.org/logos/2947.png
+3522,True,Movistar,2023-07-10T22:00:33.924Z,2021-05-07T16:48:17.684Z,sbnation,E,['movistar.es'],https://s3.tosdr.org/logos/3522.png
+2870,True,USSeek,2023-07-10T22:00:34.729Z,2021-03-27T09:51:08.874Z,usseek,D,['usseek.com'],https://s3.tosdr.org/logos/2870.png
+3118,True,Icedrive,2023-07-10T22:00:34.851Z,2021-04-13T22:19:42.006Z,icedrive,C,['icedrive.net'],https://s3.tosdr.org/logos/3118.png
+2866,True,VPN.AC,2021-05-14T14:37:50.404Z,2021-03-26T19:21:20.087Z,vpnac,A,['vpn.ac'],https://s3.tosdr.org/logos/2866.png
+2909,True,Replika,2023-07-10T22:00:36.000Z,2021-03-31T09:52:55.057Z,replika,D,['replika.ai'],https://s3.tosdr.org/logos/2909.png
+445,True,Walmart,2023-07-10T22:00:36.119Z,2018-05-08T12:19:44.919Z,walmart,E,"['walmart.com', 'walmart.ca', 'massmart.co.za', 'walmartchile.cl', 'wal-martchina.com', 'walmartmexico.com.mx', 'walmartplus.com', 'drive4spark.com']",https://s3.tosdr.org/logos/445.png
+1731,True,Follow My Health,2023-07-10T22:00:35.348Z,2019-08-02T13:54:48.004Z,follow_my_health,C,['followmyhealth.com'],https://s3.tosdr.org/logos/1731.png
+823,True,Wishlist,2023-07-10T22:00:35.524Z,2018-11-17T16:10:36.913Z,wishlist,D,['wishlist.com'],https://s3.tosdr.org/logos/823.png
+3405,True,Chapril,2021-05-03T00:02:02.267Z,2021-05-01T21:37:28.894Z,chapril,B,['chapril.org'],https://s3.tosdr.org/logos/3405.png
+2913,True,Nslookup,2021-05-14T04:10:09.553Z,2021-03-31T11:51:45.818Z,nslookup,B,['nslookup.io'],https://s3.tosdr.org/logos/2913.png
+226,True,eBay,2023-07-10T22:00:37.201Z,2018-01-16T15:26:06.352Z,ebay,E,"['ebay.com', 'ebay.co.uk', 'ebay.ca', 'ebay.fr', 'ebay.nl', 'ebay.co.jp', 'ebay.com.au', 'ebay.it', 'ebay.ie', 'ebay.de', 'ebay.ch']",https://s3.tosdr.org/logos/226.png
+1522,True,ShortcutWorld.com,2023-07-10T22:00:37.452Z,2019-05-02T16:01:35.049Z,shortcutworldcom,D,['shortcutworld.com'],https://s3.tosdr.org/logos/1522.png
+3428,True,SmartThings,2023-07-10T22:00:36.710Z,2021-05-03T18:03:28.068Z,smartthings,D,['smartthings.com'],https://s3.tosdr.org/logos/3428.png
+2878,True,Yewtu.be,2023-03-30T19:14:08.327Z,2021-03-27T11:51:11.074Z,yewtube,A,['yewtu.be'],https://s3.tosdr.org/logos/2878.png
+2941,True,CNED,2023-07-10T22:00:38.334Z,2021-04-03T17:10:43.583Z,cned,D,"['college.cned.fr', 'cned.fr', 'espaceinscrit.cned.fr']",https://s3.tosdr.org/logos/2941.png
+3434,True,Dark Reader,2023-07-10T22:00:38.884Z,2021-05-03T22:48:31.299Z,dark_reader,C,['darkreader.org'],https://s3.tosdr.org/logos/3434.png
+3335,True,Realestate.com.au,2023-07-10T22:00:39.798Z,2021-04-28T21:14:41.365Z,realestatecomau,E,['realestate.com.au'],https://s3.tosdr.org/logos/3335.png
+3362,True,APK Pure,2023-07-10T22:00:39.949Z,2021-04-30T22:59:12.090Z,apk_pure_,E,['apkpure.com'],https://s3.tosdr.org/logos/3362.png
+324,True,Urban Dictionary,2023-07-10T22:00:40.249Z,2018-01-20T14:00:01.033Z,urban_dictionary,D,"['urbandictionary.com', 'urbandictionary.blog', 'urbandictionary.store']",https://s3.tosdr.org/logos/324.png
+264,True,VKontakte,2023-07-10T22:00:39.467Z,2018-01-16T15:26:07.103Z,vk,E,['vk.com'],https://s3.tosdr.org/logos/264.png
+1581,True,HideMyAss!,2022-10-13T04:54:41.811Z,2019-05-20T06:00:25.881Z,hidemyass,B,['hidemyass.com.hmavpn.com'],https://s3.tosdr.org/logos/1581.png
+1741,True,Discovery,2021-05-03T00:02:05.430Z,2019-08-08T06:44:56.476Z,discovery,E,"['discovery.com', 'foodnetwork.com', 'asianfoodnetwork.com', 'foodnetwork.com.br', 'foodnetwork.ca', 'foodnetworktv.com', 'foodnetwork.co.uk', 'foodnetworklatam.com', 'animalplanet.com', 'destinationamerica.com', 'diynetwork.com', 'greatamericancountry.com', 'hgtv.com', 'hgtv.pl', 'tlc.com', 'ahctv.com', 'tudiscovery.com', 'investigationdiscovery.com', 'discoveryplus.co.uk', 'discoveryplus.com', 'discoveryplus.fi', 'discoveryplus.no', '']",https://s3.tosdr.org/logos/1741.png
+3181,True,Headspace,2023-07-10T22:00:41.271Z,2021-04-16T22:25:39.331Z,headspace,D,['headspace.com'],https://s3.tosdr.org/logos/3181.png
+2544,True,El País,2023-07-10T22:00:42.189Z,2021-01-16T16:17:55.211Z,el_pas,D,['elpais.com'],https://s3.tosdr.org/logos/2544.png
+3534,True,Flipboard,2023-07-10T22:00:42.338Z,2021-05-07T17:26:02.195Z,flipboard,E,['flipboard.com'],https://s3.tosdr.org/logos/3534.png
+3475,True,DAVx⁵,2021-08-11T22:25:02.105Z,2021-05-07T15:49:25.314Z,davx_,A,['davx5.com'],https://s3.tosdr.org/logos/3475.png
+2929,True,Wish,2023-07-10T22:00:43.305Z,2021-04-01T11:35:25.608Z,wish,E,"['wish.com', 'merchant.wish.com']",https://s3.tosdr.org/logos/2929.png
+3137,True,BudgetBakers,2023-07-10T22:00:44.062Z,2021-04-14T08:47:39.650Z,budgetbakers,D,['budgetbakers.com'],https://s3.tosdr.org/logos/3137.png
+2506,True,SmartNews,2023-07-10T22:00:44.166Z,2021-01-09T12:37:33.610Z,smartnews,D,['smartnews.com'],https://s3.tosdr.org/logos/2506.png
+1577,True,Forbes,2023-07-10T22:00:42.722Z,2019-05-18T22:22:10.978Z,forbes,E,['forbes.com'],https://s3.tosdr.org/logos/1577.png
+2529,True,Encyclopedia Britannica,2023-07-10T22:00:44.843Z,2021-01-16T10:48:10.145Z,encyclopedia_britannica,E,"['britannica.com', 'eb.com']",https://s3.tosdr.org/logos/2529.png
+2518,True,FamilyTreeDNA,2023-07-10T22:00:45.385Z,2021-01-11T17:20:49.509Z,familytreedna,D,['familytreedna.com'],https://s3.tosdr.org/logos/2518.png
+3422,True,Conversations,2021-05-03T00:02:09.540Z,2021-05-02T16:46:58.739Z,conversations,A,['conversations.im'],https://s3.tosdr.org/logos/3422.png
+2669,True,AirVPN,2022-12-13T17:49:16.716Z,2021-01-29T17:51:19.663Z,airvpn,B,"['airvpn.org', 'airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion']",https://s3.tosdr.org/logos/2669.png
+2716,True,CyberGhost,2021-06-01T15:10:06.241Z,2021-02-05T16:50:45.180Z,cyberghost,B,['cyberghostvpn.com'],https://s3.tosdr.org/logos/2716.png
+2697,True,Burger King,2023-07-10T22:00:46.368Z,2021-02-04T18:40:55.702Z,burger_king,E,['bk.com'],https://s3.tosdr.org/logos/2697.png
+322,True,BBC,2023-07-10T22:00:46.642Z,2018-01-20T13:59:09.349Z,bbc,D,['bbc.com'],https://s3.tosdr.org/logos/322.png
+2718,True,Medscape,2023-07-10T22:00:47.063Z,2021-02-05T17:27:01.641Z,medscape,D,['medscape.com'],https://s3.tosdr.org/logos/2718.png
+3144,True,OneSignal,2023-07-10T22:00:47.272Z,2021-04-14T09:20:15.675Z,one_signal,D,['onesignal.com'],https://s3.tosdr.org/logos/3144.png
+2995,True,Among Us,2023-07-10T22:00:47.408Z,2021-04-06T13:51:33.699Z,among_us,D,['among-us.io'],https://s3.tosdr.org/logos/2995.png
+318,True,CNN,2021-03-25T03:19:30.766Z,2018-01-20T13:57:02.912Z,cnn,E,['cnn.com'],https://s3.tosdr.org/logos/318.png
+443,True,Kongregate,2023-07-10T22:00:48.360Z,2018-05-08T12:19:44.885Z,kongregate,C,['kongregate.com'],https://s3.tosdr.org/logos/443.png
+403,True,Fur Affinity,2023-07-10T22:00:48.520Z,2018-05-08T12:19:44.174Z,fur_affinity,E,['furaffinity.net'],https://s3.tosdr.org/logos/403.png
+314,True,Quora,2023-07-10T22:00:48.670Z,2018-01-16T21:25:57.601Z,quora,D,['quora.com'],https://s3.tosdr.org/logos/314.png
+1209,True,Ryver,2023-06-05T22:00:56.796Z,2019-01-05T20:36:22.700Z,ryver,C,['ryver.com'],https://s3.tosdr.org/logos/1209.png
+315,True,WikiHow,2023-07-10T22:00:49.092Z,2018-01-16T22:02:07.532Z,wikihow,E,['wikihow.com'],https://s3.tosdr.org/logos/315.png
+221,True,Waze,2023-07-10T22:00:49.304Z,2018-01-16T15:26:06.254Z,waze,C,['waze.com'],https://s3.tosdr.org/logos/221.png
+239,True,Disqus,2023-07-10T22:00:49.501Z,2018-01-16T15:26:06.643Z,disqus,E,['disqus.com'],https://s3.tosdr.org/logos/239.png
+185,True,Netflix,2023-07-10T22:00:50.144Z,2018-01-16T15:26:05.583Z,netflix,D,['netflix.com'],https://s3.tosdr.org/logos/185.png
+214,True,WeTransfer,2023-07-10T22:00:50.258Z,2018-01-16T15:26:06.103Z,wetransfer,D,['wetransfer.com'],https://s3.tosdr.org/logos/214.png
+331,True,Bing,2023-07-10T22:00:50.438Z,2018-03-05T08:56:19.452Z,bing,E,['bing.com'],https://s3.tosdr.org/logos/331.png
+252,True,Uber,2023-07-10T22:00:51.421Z,2018-01-16T15:26:06.924Z,uber,E,"['uber.com', 'postmates.com', 'ubereats.com']",https://s3.tosdr.org/logos/252.png
+175,True,Pinterest,2023-07-10T22:00:51.680Z,2018-01-16T15:26:05.405Z,pinterest,E,"['pinterest.com', 'pinterestinc.com', 'pinimg.com']",https://s3.tosdr.org/logos/175.png
+193,True,LinkedIn,2023-07-10T22:00:51.934Z,2018-01-16T15:26:05.701Z,linkedin,E,"['linkedin.com', 'lynda.com', 'licdn.com', 'snap.licdn.com']",https://s3.tosdr.org/logos/193.png
+291,True,iCloud,2023-07-10T22:00:52.076Z,2018-01-16T15:26:07.519Z,icloud,D,['icloud.com'],https://s3.tosdr.org/logos/291.png
+444,True,Heaven HR,2023-07-10T22:00:52.436Z,2018-05-08T12:19:44.904Z,heavenhr,C,"['heavenhr.com', 'heavenhr.de']",https://s3.tosdr.org/logos/444.png
+358,True,kik-messenger,2023-07-10T22:00:52.705Z,2018-05-08T12:19:43.250Z,kikmessenger,E,['kik.com'],https://s3.tosdr.org/logos/358.png
+164,True,Vimeo,2023-07-10T22:00:50.803Z,2018-01-16T15:26:05.134Z,vimeo,E,"['vimeo.com', 'vimeocdn.com', 'livestream.com']",https://s3.tosdr.org/logos/164.png
+1959,True,NextDNS,2021-06-15T08:29:35.057Z,2019-11-05T22:38:24.090Z,nextdns,A,['nextdns.io'],https://s3.tosdr.org/logos/1959.png
+2646,True,Guilded,2023-07-10T22:00:53.908Z,2021-01-23T17:54:29.794Z,guilded,C,['guilded.gg'],https://s3.tosdr.org/logos/2646.png
+2428,True,Prezi,2023-07-10T22:00:54.315Z,2020-11-28T17:57:22.703Z,prezi,E,"['prezi.com', 'blog.prezi.com']",https://s3.tosdr.org/logos/2428.png
+267,True,SpiderOak,2023-07-10T22:00:54.471Z,2018-01-16T15:26:07.158Z,spideroak,C,['spideroak.com'],https://s3.tosdr.org/logos/267.png
+523,True,Search Encrypt,2023-06-05T22:01:02.204Z,2018-06-07T17:26:14.945Z,search_encrypt,C,['searchencrypt.com'],https://s3.tosdr.org/logos/523.png
+348,True,Hulu,2023-07-10T22:00:54.899Z,2018-05-08T12:19:43.003Z,hulu,E,['hulu.com'],https://s3.tosdr.org/logos/348.png
+275,True,Minecraft,2023-07-10T22:00:55.076Z,2018-01-16T15:26:07.291Z,minecraft,E,['minecraft.net'],https://s3.tosdr.org/logos/275.png
+580,True,Liberapay,2021-03-25T03:19:35.870Z,2018-06-27T07:20:45.876Z,liberapay,B,['liberapay.com'],https://s3.tosdr.org/logos/580.png
+527,True,Qwant,2021-03-25T03:19:36.108Z,2018-06-09T07:31:51.624Z,qwant,B,"['qwant.com', 'qwantjunior.com']",https://s3.tosdr.org/logos/527.png
+513,True,BitChute,2023-07-10T22:00:55.740Z,2018-06-03T20:06:43.548Z,bitchute,C,['bitchute.com'],https://s3.tosdr.org/logos/513.png
+525,True,Fedora,2023-04-22T11:49:05.792Z,2018-06-07T21:16:36.505Z,fedora,B,"['getfedora.org', 'fedoraproject.org']",https://s3.tosdr.org/logos/525.png
+280,True,Tumblr,2023-06-05T22:01:03.491Z,2018-01-16T15:26:07.358Z,tumblr,B,['tumblr.com'],https://s3.tosdr.org/logos/280.png
+591,True,Ecosia,2023-07-10T22:00:56.276Z,2018-07-06T01:41:00.060Z,ecosia,C,['ecosia.org'],https://s3.tosdr.org/logos/591.png
+534,True,Kahoot!,2023-06-05T22:01:03.777Z,2018-06-19T09:07:22.749Z,kahoot,C,"['kahoot.com', 'kahoot.it']",https://s3.tosdr.org/logos/534.png
+592,True,Campus Innovations Kultur,2023-06-05T22:01:04.216Z,2018-07-06T05:50:28.984Z,campus_innovations_kultur,C,['cik.cool'],https://s3.tosdr.org/logos/592.png
+3002,True,MobyGames,2023-07-10T22:00:57.261Z,2021-04-06T17:07:29.503Z,mobygames,D,['mobygames.com'],https://s3.tosdr.org/logos/3002.png
+2077,True,LibreOffice,2023-07-10T22:00:57.480Z,2020-01-04T20:47:29.831Z,libreoffice,C,['libreoffice.org'],https://s3.tosdr.org/logos/2077.png
+1748,True,McDonald's,2023-07-10T22:00:57.687Z,2019-08-12T06:14:51.663Z,mcdonalds,E,"['mcdonalds.com', 'mcdonaldsapps.com']",https://s3.tosdr.org/logos/1748.png
+1638,True,Redbubble,2023-07-10T22:00:58.108Z,2019-06-21T22:20:28.820Z,redbubble,C,['redbubble.com'],https://s3.tosdr.org/logos/1638.png
+505,True,Canva,2023-07-10T22:00:57.093Z,2018-05-29T01:14:56.922Z,canva,D,['canva.com'],https://s3.tosdr.org/logos/505.png
+614,True,Amnesty International Limited (UK),2021-03-25T03:19:37.247Z,2018-07-16T09:57:15.626Z,amnesty_international_limited_uk,B,['amnesty.org'],https://s3.tosdr.org/logos/614.png
+1826,True,Disroot,2021-06-13T22:00:27.905Z,2019-09-07T22:00:11.552Z,disroot,A,['disroot.org'],https://s3.tosdr.org/logos/1826.png
+630,True,RESEARCHCHEMAIAL SWITZERLAND,2021-03-25T03:19:37.883Z,2018-07-26T20:56:43.025Z,researchchemaial_switzerland,,['get-rc.to'],https://s3.tosdr.org/logos/630.png
+707,True,Nextcloud,2021-03-27T21:35:27.770Z,2018-09-13T21:37:57.064Z,nextcloud,B,['nextcloud.com'],https://s3.tosdr.org/logos/707.png
+635,True,OsmAnd,2023-07-10T22:00:59.473Z,2018-08-01T11:51:21.239Z,osmand,D,['osmand.net'],https://s3.tosdr.org/logos/635.png
+616,True,Pornhub,2023-07-10T22:00:59.638Z,2018-07-16T11:18:03.897Z,pornhub,E,"['pornhub.com', ' modelhub.com']",https://s3.tosdr.org/logos/616.png
+698,True,Sync,2023-04-22T11:49:09.288Z,2018-09-05T21:02:53.491Z,sync,A,['sync.com'],https://s3.tosdr.org/logos/698.png
+2062,True,Calendly,2023-07-10T22:01:00.085Z,2019-12-28T01:17:33.848Z,calendly,D,['calendly.com'],https://s3.tosdr.org/logos/2062.png
+634,True,Bumble,2023-07-10T22:01:00.229Z,2018-07-31T05:36:17.680Z,bumble,D,['bumble.com'],https://s3.tosdr.org/logos/634.png
+609,True,Bandcamp,2023-07-10T22:01:00.481Z,2018-07-16T09:16:12.537Z,bandcamp,C,['bandcamp.com'],https://s3.tosdr.org/logos/609.png
+705,True,Nvidia,2023-07-10T22:01:01.151Z,2018-09-10T19:32:35.934Z,nvidia,D,"['nvidia.com', 'nvidia.de', 'geforce.com', 'nvidia.cn']",https://s3.tosdr.org/logos/705.png
+831,True,Clockify,2023-07-10T22:01:01.290Z,2018-11-19T19:30:23.246Z,clockify,C,['clockify.me'],https://s3.tosdr.org/logos/831.png
+1588,True,Coinbase,2023-07-10T22:01:01.543Z,2019-05-22T05:09:08.368Z,coinbase,D,['coinbase.com'],https://s3.tosdr.org/logos/1588.png
+687,True,FastMail,2022-12-12T00:03:38.011Z,2018-08-30T00:14:19.755Z,fastmail,B,['fastmail.com'],https://s3.tosdr.org/logos/687.png
+3262,True,Privacy.com,2023-07-10T22:01:18.860Z,2021-04-23T19:50:17.485Z,privacy,E,['privacy.com'],https://s3.tosdr.org/logos/3262.png
+603,True,Discogs,2023-07-10T22:01:02.208Z,2018-07-16T08:33:15.286Z,discogs,D,"['discogs.com', 'comicogs.com', 'filmo.gs', 'gearogs.com', 'vinylhub.com', 'bookogs.com', 'posterogs.com']",https://s3.tosdr.org/logos/603.png
+721,True,Bilibili,2023-07-10T22:01:02.389Z,2018-09-26T08:04:13.020Z,bilibili,E,"['bilibili.com', 'www.bilibili.com', 'live.bilibili.com']",https://s3.tosdr.org/logos/721.png
+813,True,Quizlet,2023-07-10T22:01:03.079Z,2018-11-04T18:30:44.455Z,quizlet,D,['quizlet.com'],https://s3.tosdr.org/logos/813.png
+805,True,xda-developers,2023-07-10T22:01:03.580Z,2018-10-30T14:57:19.347Z,xdadevelopers,D,['xda-developers.com'],https://s3.tosdr.org/logos/805.png
+798,True,Patook,2023-07-10T22:01:04.514Z,2018-10-25T22:42:07.984Z,patook,D,['patook.com'],https://s3.tosdr.org/logos/798.png
+846,True,Crunchyroll,2023-07-10T22:01:04.802Z,2018-12-01T13:47:34.761Z,crunchyroll,E,"['crunchyroll.com', 'crunchyrollexpo.com']",https://s3.tosdr.org/logos/846.png
+838,True,10minutemail,2023-07-10T22:01:04.966Z,2018-11-25T19:38:31.039Z,10minutemail,D,['10minutemail.com'],https://s3.tosdr.org/logos/838.png
+836,True,Scratch,2023-07-10T22:01:05.141Z,2018-11-22T23:19:18.699Z,scratch,C,['scratch.mit.edu'],https://s3.tosdr.org/logos/836.png
+1570,True,AliExpress,2023-07-10T22:01:05.253Z,2019-05-18T12:54:36.682Z,aliexpress,D,['aliexpress.com'],https://s3.tosdr.org/logos/1570.png
+697,True,NordVPN,2023-07-10T22:01:05.560Z,2018-09-05T00:56:01.527Z,nordvpn,D,['nordvpn.com'],https://s3.tosdr.org/logos/697.png
+826,True,FileFactory,2023-07-10T22:01:04.061Z,2018-11-17T17:11:50.583Z,filefactory,E,['filefactory.com'],https://s3.tosdr.org/logos/826.png
+1557,True,23andMe,2023-07-10T22:01:05.988Z,2019-05-14T22:38:22.491Z,23andme,D,['23andme.com'],https://s3.tosdr.org/logos/1557.png
+1013,True,Fiverr,2023-07-10T22:01:07.046Z,2019-01-01T21:53:57.100Z,fiverr,E,['fiverr.com'],https://s3.tosdr.org/logos/1013.png
+1012,True,BetterHelp,2023-07-10T22:01:07.259Z,2019-01-01T20:24:35.233Z,betterhelp,D,['betterhelp.com'],https://s3.tosdr.org/logos/1012.png
+1010,True,Patreon,2023-06-05T22:01:14.587Z,2019-01-01T05:11:22.506Z,patreon,C,"['patreon.com', 'patreonusercontent.com']",https://s3.tosdr.org/logos/1010.png
+1352,True,MySudo,2022-12-04T05:54:53.478Z,2019-01-21T22:34:03.998Z,mysudo,B,"['mysudo.com', 'anonyome.com']",https://s3.tosdr.org/logos/1352.png
+1545,True,DiscourseHosting,2021-03-27T21:35:30.734Z,2019-05-12T00:47:23.067Z,discoursehosting,B,"['discoursehosting.com', 'communiteq.com']",https://s3.tosdr.org/logos/1545.png
+1592,True,Crowdmark,2023-07-10T22:01:08.206Z,2019-05-24T00:49:02.437Z,crowdmark,E,['crowdmark.com'],https://s3.tosdr.org/logos/1592.png
+1447,True,Observable,2023-07-10T22:01:08.468Z,2019-03-13T13:18:15.484Z,observable,C,['observablehq.com'],https://s3.tosdr.org/logos/1447.png
+1372,True,Presearch,2023-07-10T22:01:08.613Z,2019-02-06T18:14:35.956Z,presearch,D,"['presearch.io', 'presearch.org']",https://s3.tosdr.org/logos/1372.png
+1357,True,Minds,2023-07-10T22:01:08.021Z,2019-01-24T08:34:13.790Z,minds,C,"['minds.com', 'minds.org']",https://s3.tosdr.org/logos/1357.png
+265,True,Wikipedia,2021-03-25T03:19:44.293Z,2018-01-16T15:26:07.128Z,wikipedia,B,['wikipedia.org'],https://s3.tosdr.org/logos/265.png
+1377,True,Upcloud,2021-03-25T03:19:44.746Z,2019-02-11T00:42:12.394Z,upcloud,B,['upcloud.com'],https://s3.tosdr.org/logos/1377.png
+1593,True,ISODME,2023-07-10T22:01:10.023Z,2019-05-24T01:40:56.346Z,isodme,D,['isodme.com'],https://s3.tosdr.org/logos/1593.png
+1336,True,Roblox,2023-06-05T22:01:18.002Z,2019-01-06T17:19:32.401Z,roblox,C,['roblox.com'],https://s3.tosdr.org/logos/1336.png
+1607,True,SourceHut,2021-06-26T22:00:32.130Z,2019-06-01T17:44:11.260Z,sourcehut,B,"['sourcehut.org', 'sr.ht']",https://s3.tosdr.org/logos/1607.png
+2116,True,Standard Notes,2023-03-31T15:24:23.928Z,2020-01-08T20:56:12.450Z,standard_notes,A,['standardnotes.com'],https://s3.tosdr.org/logos/2116.png
+1892,True,Artspace,2023-07-10T22:01:11.459Z,2019-10-10T06:10:02.080Z,artspace,E,['artspace.com'],https://s3.tosdr.org/logos/1892.png
+1713,True,FaceApp,2023-07-10T22:01:12.117Z,2019-07-17T16:39:02.066Z,faceapp,D,['faceapp.com'],https://s3.tosdr.org/logos/1713.png
+2002,True,Hacker Wars,2023-07-10T22:01:12.285Z,2019-11-12T03:33:07.281Z,hacker_wars,D,['hackerwars.io'],https://s3.tosdr.org/logos/2002.png
+313,True,IMDb,2023-07-10T22:01:12.840Z,2018-01-16T21:23:10.887Z,imdb,E,['imdb.com'],https://s3.tosdr.org/logos/313.png
+2073,True,DeepL,2022-12-17T22:10:06.659Z,2020-01-02T17:29:57.361Z,deepl,B,['deepl.com'],https://s3.tosdr.org/logos/2073.png
+1745,True,ProtonVPN,2021-03-25T03:19:46.533Z,2019-08-11T05:31:59.859Z,protonvpn,B,['protonvpn.com'],https://s3.tosdr.org/logos/1745.png
+2059,True,The Session,2021-03-25T03:19:47.174Z,2019-12-24T17:50:02.936Z,the_session,A,['thesession.org'],https://s3.tosdr.org/logos/2059.png
+1735,True,The Movie Database (TMDb),2023-07-10T22:01:13.704Z,2019-08-03T18:35:55.553Z,the_movie_database_tmdb,D,"['www.themoviedb.org', 'themoviedb.org']",https://s3.tosdr.org/logos/1735.png
+3259,True,GlobaliD,2023-07-10T22:01:14.454Z,2021-04-23T19:48:09.816Z,globalid,C,['global.id'],https://s3.tosdr.org/logos/3259.png
+2045,True,Dendreo,2021-03-25T03:19:47.217Z,2019-12-16T08:59:08.364Z,dendreo,B,['dendreo.com'],https://s3.tosdr.org/logos/2045.png
+1564,True,MeWe,2021-06-01T14:10:06.395Z,2019-05-16T21:04:50.679Z,mewe,B,['mewe.com'],https://s3.tosdr.org/logos/1564.png
+1869,True,zmudzinski.me Personal Blog (DEPRECATED),2022-12-25T21:12:39.389Z,2019-09-17T09:03:57.775Z,zmudzinskime_personal_blog,A,['zmudzinski.me'],https://s3.tosdr.org/logos/1869.png
+1554,True,Ting Inc.,2023-07-10T22:01:15.244Z,2019-05-13T17:13:09.362Z,ting_inc,D,['ting.com'],https://s3.tosdr.org/logos/1554.png
+1488,True,Cover your Tracks,2023-03-30T19:16:29.614Z,2019-04-10T19:40:24.014Z,panopticlick,A,"['panopticlick.eff.org', 'coveryourtracks.eff.org']",https://s3.tosdr.org/logos/1488.png
+1954,True,How-To Geek,2023-07-10T22:01:15.491Z,2019-11-04T20:11:28.338Z,howto_geek,D,['howtogeek.com'],https://s3.tosdr.org/logos/1954.png
+912,True,Malwarebytes,2023-07-10T22:01:15.773Z,2018-12-19T05:24:52.138Z,malwarebytes,C,['malwarebytes.com'],https://s3.tosdr.org/logos/912.png
+1553,True,Speedtest by Ookla,2023-07-10T22:01:16.424Z,2019-05-13T05:36:58.264Z,speedtest_by_ookla,E,['speedtest.net'],https://s3.tosdr.org/logos/1553.png
+1537,True,Pexgle,2023-07-10T22:01:16.726Z,2019-05-09T10:27:52.535Z,pexgle,D,['pexgle.com'],https://s3.tosdr.org/logos/1537.png
+1936,True,Metacafe,2023-07-10T22:01:16.925Z,2019-10-16T19:51:37.879Z,metacafe,D,['metacafe.com'],https://s3.tosdr.org/logos/1936.png
+1636,True,Internet Archive,2023-07-10T22:01:17.252Z,2019-06-20T16:19:47.392Z,internet_archive,C,['archive.org'],https://s3.tosdr.org/logos/1636.png
+2036,True,Orchid VPN,2023-07-10T22:01:17.389Z,2019-12-10T10:47:30.676Z,orchid_vpn,C,['orchid.com'],https://s3.tosdr.org/logos/2036.png
+2201,True,Jitsi,2021-03-25T03:19:48.913Z,2020-03-26T15:27:29.055Z,jitsi,B,"['jitsi.org', 'meet.jit.si']",https://s3.tosdr.org/logos/2201.png
+2198,True,Zoom Video Communications,2023-07-10T22:01:19.259Z,2020-03-24T11:13:33.881Z,zoom_video_communications,D,['zoom.us'],https://s3.tosdr.org/logos/2198.png
+2481,True,Instabridge,2023-07-10T22:01:19.637Z,2020-12-30T21:47:51.861Z,instabridge,D,['instabridge.com'],https://s3.tosdr.org/logos/2481.png
+2195,True,Wolt,2023-07-10T22:01:18.083Z,2020-03-20T20:13:09.148Z,wolt,C,['wolt.com'],https://s3.tosdr.org/logos/2195.png
+2224,True,Smartmessages,2021-03-25T03:19:49.174Z,2020-04-21T13:49:02.151Z,smartmessages,B,"['smartmessages.net', 'smm.im']",https://s3.tosdr.org/logos/2224.png
+743,True,Kink.com,2021-03-25T03:19:49.556Z,2018-10-11T15:41:21.693Z,kinkcom,,['kink.com'],https://s3.tosdr.org/logos/743.png
+2505,True,Iziram,2021-04-08T15:47:04.448Z,2021-01-09T12:30:17.993Z,iziram,A,"['iziram.fr', 'en.iziram.fr']",https://s3.tosdr.org/logos/2505.png
+2205,True,Adventurer's Codex,2023-07-10T22:01:20.820Z,2020-04-04T16:15:46.177Z,adventurers_codex,D,['adventurerscodex.com'],https://s3.tosdr.org/logos/2205.png
+506,True,YNAB. (You Need a Budget),2023-07-10T22:01:21.196Z,2018-05-29T03:35:49.792Z,you_need_a_budget,C,['youneedabudget.com'],https://s3.tosdr.org/logos/506.png
+2202,True,Turnitin,2023-06-05T22:01:26.611Z,2020-03-27T15:05:27.229Z,turnitin,C,['turnitin.com'],https://s3.tosdr.org/logos/2202.png
+2141,True,Avast,2024-06-28T21:15:24.609Z,2020-01-30T15:04:00.928Z,avast,D,"['avast.com', 'avcdn.net', 'avastbrowser.com']",https://s3.tosdr.org/logos/2141.png
+530,True,Mozilla.org,2024-01-27T19:09:03.645Z,2018-06-12T22:03:48.303Z,mozillaorg,C,"['mozilla.org', 'extensionworkshop.com', 'firefox.com']",https://s3.tosdr.org/logos/530.png
+491,True,Proton AG,2023-08-14T18:01:12.707Z,2018-05-08T12:19:45.703Z,protonmail,A,"['protonmail.com', 'protonmail.ch', 'getproton.me', 'pm.me', 'protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion', 'proton.me', 'protonapps.com']",https://s3.tosdr.org/logos/491.png
+1696,True,Tresorit,2021-03-27T21:35:34.644Z,2019-07-09T21:57:56.621Z,tresorit,B,['tresorit.com'],https://s3.tosdr.org/logos/1696.png
+406,True,Xiaomi,2021-03-25T03:19:50.970Z,2018-05-08T12:19:44.250Z,xiaomi,B,['mi.com'],https://s3.tosdr.org/logos/406.png
+2207,True,hCaptcha,2023-07-10T22:01:23.487Z,2020-04-05T11:37:35.203Z,hcaptcha,D,['hcaptcha.com'],https://s3.tosdr.org/logos/2207.png
+2461,True,Merriam-Webster,2023-07-10T22:01:22.935Z,2020-12-19T17:40:41.776Z,merriamwebster,E,['merriam-webster.com'],https://s3.tosdr.org/logos/2461.png
+2262,True,Listudy,2021-03-25T03:19:51.482Z,2020-07-03T15:20:01.996Z,listudy,B,['listudy.org'],https://s3.tosdr.org/logos/2262.png
+2266,True,Hacking with Swift,2021-03-25T03:19:51.628Z,2020-07-08T21:22:39.760Z,hacking_with_swift,B,['hackingwithswift.com'],https://s3.tosdr.org/logos/2266.png
+2312,True,Archive of Our Own,2021-03-25T03:19:51.717Z,2020-08-01T21:11:55.475Z,archive_of_our_own,B,['archiveofourown.org'],https://s3.tosdr.org/logos/2312.png
+2354,True,WeMod,2023-07-10T22:01:24.974Z,2020-10-03T19:59:22.481Z,wemod,E,"['wemod.com', 'support.wemod.com']",https://s3.tosdr.org/logos/2354.png
+2359,True,Hinterland Games,2023-07-10T22:01:25.197Z,2020-10-06T18:51:34.588Z,hinterland_games,D,"['hinterlandforums.com', 'thelongdark.com', 'hinterlandgames.com']",https://s3.tosdr.org/logos/2359.png
+2412,True,Pixel8Earth,2023-07-10T22:01:26.683Z,2020-11-20T06:05:48.921Z,pixel8earth,C,['pixel8.earth'],https://s3.tosdr.org/logos/2412.png
+860,True,Yandex,2023-07-10T22:01:26.839Z,2018-12-19T03:25:44.602Z,yandex,E,"['yandex.com', 'yandex.ru', 'yandex.ua', 'yandex.by', 'yandex.kz', 'yandex.uz', 'yandex.com.tr', 'alice.yandex.ru', '']",https://s3.tosdr.org/logos/860.png
+2399,True,Fivestars,2023-07-10T22:01:27.162Z,2020-11-08T07:39:19.750Z,fivestars,D,['fivestars.com'],https://s3.tosdr.org/logos/2399.png
+2356,True,YTMP3.CC,2023-07-10T22:01:27.371Z,2020-10-05T21:48:22.765Z,ytmp3cc,D,['ytmp3.cc'],https://s3.tosdr.org/logos/2356.png
+2381,True,Neurohr Bytes Software,2023-06-30T22:01:44.585Z,2020-10-29T16:50:26.042Z,neurohr_bytes_software,A,"['neurohr.bytes.software', 'bytes.software']",https://s3.tosdr.org/logos/2381.png
+3387,True,OpenTracks,2023-07-10T22:01:27.704Z,2021-05-01T20:35:38.803Z,opentracks_,C,['opentracksapp.com'],https://s3.tosdr.org/logos/3387.png
+2361,True,Attendify,2023-07-10T22:01:28.084Z,2020-10-08T12:24:34.715Z,attendify,E,"['attendify.co', 'attendify.com']",https://s3.tosdr.org/logos/2361.png
+2447,True,likee,2023-07-10T22:01:29.001Z,2020-12-07T00:34:25.190Z,likee,E,['likee.video'],https://s3.tosdr.org/logos/2447.png
+274,True,YouTube,2023-07-10T22:01:29.270Z,2018-01-16T15:26:07.265Z,youtube,E,['youtube.com'],https://s3.tosdr.org/logos/274.png
+2429,True,pCloud,2023-07-10T22:01:29.500Z,2020-11-28T18:08:36.564Z,pcloud,C,['pcloud.com'],https://s3.tosdr.org/logos/2429.png
+224,True,Bitly,2023-07-10T22:01:29.803Z,2018-01-16T15:26:06.312Z,bitly,D,"['bitly.com', 'getbitly.today', 'getbitly.pro']",https://s3.tosdr.org/logos/224.png
+632,True,edX,2023-07-10T22:01:30.128Z,2018-07-30T17:34:12.301Z,edx,D,['edx.org'],https://s3.tosdr.org/logos/632.png
+2426,True,The MOD Archive,2023-06-05T22:01:35.401Z,2020-11-26T20:59:07.501Z,the_mod_archive,C,['modarchive.org'],https://s3.tosdr.org/logos/2426.png
+2436,True,V.H. Hess,2023-07-10T22:01:30.302Z,2020-12-02T12:16:00.961Z,vh_hess,C,['vhhess.com'],https://s3.tosdr.org/logos/2436.png
+2444,True,Amazon Prime Video,2023-07-10T22:01:30.669Z,2020-12-04T21:19:43.414Z,amazon_prime_video,D,['primevideo.com'],https://s3.tosdr.org/logos/2444.png
+2391,True,LBRY,2023-07-10T22:01:28.574Z,2020-11-03T20:09:24.673Z,odysee_lbry,D,"['lbry.com', 'lbry.tv']",https://s3.tosdr.org/logos/2391.png
+192,True,DeviantArt,2024-02-07T11:01:11.521Z,2018-01-16T15:26:05.686Z,deviantart,D,['deviantart.com'],https://s3.tosdr.org/logos/192.png
+2498,True,Element,2021-06-25T10:05:13.566Z,2021-01-04T22:37:01.506Z,element,B,['element.io'],https://s3.tosdr.org/logos/2498.png
+866,True,Dailymotion,2023-07-10T22:01:32.295Z,2018-12-19T04:40:35.416Z,dailymotion,E,['dailymotion.com'],https://s3.tosdr.org/logos/866.png
+1362,True,Wattpad,2023-06-05T22:01:37.884Z,2019-01-27T17:23:32.824Z,wattpad,C,['wattpad.com'],https://s3.tosdr.org/logos/1362.png
+2804,True,LightyearVPN,2023-07-10T22:01:32.961Z,2021-03-09T19:58:03.191Z,lightyearvpn,D,['lightyearvpn.com'],https://s3.tosdr.org/logos/2804.png
+1007,True,Brainly,2023-07-10T22:01:33.274Z,2018-12-31T08:16:29.803Z,brainly,D,"['brainly.co', 'brainly.com.br', 'brainly.lat', 'brainly.com', 'znanija.com', 'nosdevoirs.fr', 'brainly.in', 'brainly.co.id', 'eodev.com', 'brainly.ph', 'brainly.pl', 'brainly.ro']",https://s3.tosdr.org/logos/1007.png
+2453,True,iFunny,2023-07-10T22:01:31.467Z,2020-12-14T09:47:13.199Z,ifunny,E,['ifunny.co'],https://s3.tosdr.org/logos/2453.png
+2532,True,Authy (Twilio),2021-03-27T21:35:36.794Z,2021-01-16T11:03:26.335Z,authy_twilio,B,"['twilio.com', 'authy.com']",https://s3.tosdr.org/logos/2532.png
+2568,True,NewPipe,2021-03-27T21:35:37.404Z,2021-01-19T10:32:34.820Z,newpipe,A,['newpipe.net'],https://s3.tosdr.org/logos/2568.png
+194,True,Reddit,2024-01-02T10:02:33.590Z,2018-01-16T15:26:05.715Z,reddit,E,"['reddit.com', 'reddithelp.com', 'redditinc.com', 'redditgifts.com', 'redditblog.com', 'redditforbusiness.com']",https://s3.tosdr.org/logos/194.png
+1694,True,Mailfence,2023-10-28T10:01:04.266Z,2019-07-07T23:12:40.223Z,mailfence,A,['mailfence.com'],https://s3.tosdr.org/logos/1694.png
+1348,True,Bitwarden,2023-11-13T12:39:58.748Z,2019-01-17T13:52:34.306Z,bitwarden,C,"['bitwarden.com', 'bitwarden.eu', 'passwordless.dev']",https://s3.tosdr.org/logos/1348.png
+2555,True,FanFiction,2021-05-14T14:38:00.328Z,2021-01-18T18:47:29.028Z,fanfiction,D,['fanfiction.net'],https://s3.tosdr.org/logos/2555.png
+2674,True,PureVPN,2023-07-10T22:01:34.447Z,2021-01-29T20:59:50.916Z,purevpn,D,['purevpn.com'],https://s3.tosdr.org/logos/2674.png
+2618,True,Schoology,2023-07-10T22:01:34.593Z,2021-01-21T10:57:00.521Z,schoology,D,['schoology.com'],https://s3.tosdr.org/logos/2618.png
+2536,True,WordReference,2023-07-10T22:01:34.931Z,2021-01-16T13:38:48.705Z,wordreference,D,['wordreference.com'],https://s3.tosdr.org/logos/2536.png
+2539,True,Marca,2023-07-10T22:01:34.108Z,2021-01-16T15:25:10.511Z,marca,C,['marca.com'],https://s3.tosdr.org/logos/2539.png
+2658,True,Metager,2021-05-13T14:15:43.803Z,2021-01-28T20:17:59.709Z,metager,B,"['metager.org', 'metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion', 'metager.de']",https://s3.tosdr.org/logos/2658.png
+206,True,Slack,2021-03-25T03:19:56.449Z,2018-01-16T15:26:05.951Z,slack,B,"['slack.com', 'slack.shop', 'slackhq.com', 'slackcertified.com', 'api.slack.com']",https://s3.tosdr.org/logos/206.png
+1519,True,Open Humans,2021-03-25T03:19:56.466Z,2019-04-30T22:24:17.324Z,open_humans,B,"['openhumans.org', 'exploratory.openhumans.org', 'discourse.openhumans.org']",https://s3.tosdr.org/logos/1519.png
+2579,True,Pearltrees,2023-07-10T22:01:35.876Z,2021-01-20T18:08:47.735Z,pearltrees,D,['pearltrees.com'],https://s3.tosdr.org/logos/2579.png
+2031,True,Creative Commons,2023-07-10T22:01:36.060Z,2019-12-02T12:10:16.815Z,creative_commons,E,['creativecommons.org'],https://s3.tosdr.org/logos/2031.png
+1830,True,Strava,2023-07-10T22:01:36.426Z,2019-09-08T23:23:58.643Z,strava,E,['strava.com'],https://s3.tosdr.org/logos/1830.png
+2629,True,STiBaRC,2023-07-10T22:01:36.542Z,2021-01-22T21:46:55.600Z,stibarc,C,['stibarc.com'],https://s3.tosdr.org/logos/2629.png
+2690,True,Selfie2Anime,2023-07-10T22:01:36.718Z,2021-02-03T16:20:24.339Z,selfie2anime,E,['selfie2anime.com'],https://s3.tosdr.org/logos/2690.png
+2622,True,Crain's Chicago Business,2023-07-10T22:01:36.965Z,2021-01-22T19:21:17.375Z,crains_chicago_business,E,['chicagobusiness.com'],https://s3.tosdr.org/logos/2622.png
+2645,True,Rumble,2023-07-10T22:01:37.232Z,2021-01-23T11:37:14.998Z,rumble,D,['rumble.com'],https://s3.tosdr.org/logos/2645.png
+2542,True,Le Monde,2023-07-10T22:01:37.582Z,2021-01-16T16:01:28.985Z,le_monde,D,['lemonde.fr'],https://s3.tosdr.org/logos/2542.png
+2582,True,Linksys,2023-07-10T22:01:37.701Z,2021-01-20T19:53:52.294Z,linksys,D,['linksys.com'],https://s3.tosdr.org/logos/2582.png
+2746,True,Arch Linux,2021-03-25T03:19:57.166Z,2021-02-06T23:44:22.908Z,arch_linux,B,['archlinux.org'],https://s3.tosdr.org/logos/2746.png
+2747,True,ToSBack,2022-12-13T17:29:55.735Z,2021-02-08T02:10:13.857Z,tosback,A,"['tosback.com', 'tosback.org', 'tosback.net', 'tossback.org', 'xkp3bueakhnea3hw4t4izybudyysnoc4jt746z7555mpv2w4p73ihhyd.onion']",https://s3.tosdr.org/logos/2747.png
+2745,True,Disney+,2023-07-10T22:01:38.521Z,2021-02-06T20:57:26.230Z,disney,E,['disneyplus.com'],https://s3.tosdr.org/logos/2745.png
+2736,True,WikiTree,2023-07-10T22:01:38.774Z,2021-02-06T15:30:07.567Z,wikitree,C,['wikitree.com'],https://s3.tosdr.org/logos/2736.png
+2701,True,ExpressVPN,2023-07-10T22:01:38.951Z,2021-02-04T20:57:21.039Z,expressvpn,D,"['expressvpn.com', 'vpnforstreamingvideo.com']",https://s3.tosdr.org/logos/2701.png
+2659,True,Alan Thomson Simulation,2023-07-10T22:01:39.118Z,2021-01-28T20:51:57.790Z,alan_thomson_simulation,C,['alanthomsonsim.com'],https://s3.tosdr.org/logos/2659.png
+2738,True,EthanMcBloxxer,2023-07-10T22:01:39.431Z,2021-02-06T15:52:27.200Z,ethanmcbloxxer,C,['ethanmcbloxxer.github.io'],https://s3.tosdr.org/logos/2738.png
+2756,True,Alzforum,2023-06-05T22:01:45.468Z,2021-02-09T17:37:07.212Z,alzforum,C,['alzforum.org'],https://s3.tosdr.org/logos/2756.png
+2392,True,Instructure,2023-07-10T22:01:39.652Z,2020-11-04T04:47:21.340Z,instructure,E,"['instructure.com', 'canvas-user-content.com', 'canvaslms.com']",https://s3.tosdr.org/logos/2392.png
+2748,True,IVPN,2023-07-10T22:01:39.754Z,2021-02-08T16:48:51.728Z,ivpn,C,['ivpn.net'],https://s3.tosdr.org/logos/2748.png
+2541,True,El Mundo (El Salvador),2023-06-05T22:01:46.941Z,2021-01-16T15:36:39.191Z,el_mundo_el_salvador,C,['elmundo.sv'],https://s3.tosdr.org/logos/2541.png
+2795,True,Veepn,2023-07-10T22:01:41.005Z,2021-03-08T20:06:06.338Z,veepn,D,['veepn.com'],https://s3.tosdr.org/logos/2795.png
+3355,True,jamesbush.dev,2021-05-09T22:00:20.165Z,2021-04-30T22:26:09.545Z,jamesbushdev,A,['jamesbush.dev'],https://s3.tosdr.org/logos/3355.png
+2856,True,Microspot,2023-07-10T22:01:41.809Z,2021-03-24T16:52:21.172Z,microspot,D,['microspot.ch'],https://s3.tosdr.org/logos/2856.png
+3710,True,VPN Hamster,2023-07-10T22:01:46.997Z,2021-05-19T19:35:17.524Z,vpn_hamster,E,['vpnhamster.com'],https://s3.tosdr.org/logos/3710.png
+2809,True,Wallapop,2023-07-10T22:01:42.296Z,2021-03-10T13:30:40.315Z,wallapop,D,['wallapop.com'],https://s3.tosdr.org/logos/2809.png
+2538,True,Eltiempo.es,2023-06-05T22:01:47.930Z,2021-01-16T15:14:52.638Z,eltiempoes,C,"['eltiempo.es', 'eltiempo.net']",https://s3.tosdr.org/logos/2538.png
+2853,True,Profilic,2023-06-05T22:01:48.353Z,2021-03-24T16:23:27.131Z,profilic,C,['profilic.co'],https://s3.tosdr.org/logos/2853.png
+3587,True,Wickr Me,2023-06-05T22:01:50.807Z,2021-05-13T11:48:14.149Z,wickr_me,B,['wickr.com'],https://s3.tosdr.org/logos/3587.png
+3540,True,RTS (Radio Télévision Suisse),2023-07-10T22:01:42.444Z,2021-05-08T09:33:51.992Z,rts_radio_tlvision_suisse,C,['rts.ch'],https://s3.tosdr.org/logos/3540.png
+2617,True,Open Collective,2023-07-10T22:01:42.556Z,2021-01-21T07:59:50.249Z,opencollective,D,['opencollective.com'],https://s3.tosdr.org/logos/2617.png
+3551,True,Wise,2023-07-10T22:01:42.766Z,2021-05-12T23:13:23.468Z,wise,D,['wise.com'],https://s3.tosdr.org/logos/3551.png
+2848,True,BlueMail,2023-07-10T22:01:42.866Z,2021-03-23T18:21:54.100Z,bluemail,C,['bluemail.me'],https://s3.tosdr.org/logos/2848.png
+825,True,Samsung,2023-07-10T22:01:43.088Z,2018-11-17T17:06:11.078Z,samsung,D,"['samsung.com', 'samsungsupport.com', 'samsungrs.samsungapps.com', 'samsungosp.com', 'samsungcloud.com']",https://s3.tosdr.org/logos/825.png
+2557,True,TourOfCalifornia.org,2023-07-10T22:01:43.207Z,2021-01-18T19:04:28.292Z,tourofcaliforniaorg,C,['tourofcalifornia.org'],https://s3.tosdr.org/logos/2557.png
+2847,True,Le Bon Coin,2023-07-10T22:01:43.431Z,2021-03-23T14:16:01.261Z,le_bon_coin,E,"['leboncoin.fr', 'leboncoingroupe.com']",https://s3.tosdr.org/logos/2847.png
+173,True,WordPress.org,2021-05-16T22:00:21.569Z,2018-01-16T15:26:05.367Z,wordpressorg,B,"['wordpress.org', 'wordpress.net', 'wordcamp.org', 'buddypress.org', 'bbpress.org']",https://s3.tosdr.org/logos/173.png
+3579,True,ShareX,2023-07-10T22:01:43.895Z,2021-05-13T00:27:29.539Z,sharex,C,['getsharex.com'],https://s3.tosdr.org/logos/3579.png
+305,True,eBuddy,2023-07-10T22:01:47.144Z,2018-01-16T15:26:07.899Z,ebuddy,D,['ebuddy.com'],https://s3.tosdr.org/logos/305.png
+2212,True,Anonfiles,2023-07-10T22:01:44.091Z,2020-04-07T05:18:26.789Z,anonfiles,C,['anonfiles.com'],https://s3.tosdr.org/logos/2212.png
+2705,True,Weatheralex1 Hub,2023-07-10T22:01:44.164Z,2021-02-05T00:43:41.807Z,weatheralex1_hub,D,['weatheralex1.com'],https://s3.tosdr.org/logos/2705.png
+3388,True,SchildiChat,2023-07-10T22:01:44.576Z,2021-05-01T20:43:07.176Z,schildichat,C,['schildi.chat'],https://s3.tosdr.org/logos/3388.png
+3365,True,Mozilla Thunderbird,2023-07-10T22:01:44.717Z,2021-05-01T12:20:54.578Z,mozilla_thunderbird,C,['thunderbird.net'],https://s3.tosdr.org/logos/3365.png
+2057,True,SparkNotes,2023-06-05T22:01:51.124Z,2019-12-23T01:16:23.130Z,sparknotes,E,['sparknotes.com'],https://s3.tosdr.org/logos/2057.png
+3582,True,Weblate,2021-06-17T09:10:07.861Z,2021-05-13T00:35:13.838Z,weblate,B,"['weblate.org', 'hosted.weblate.org']",https://s3.tosdr.org/logos/3582.png
+837,True,Netsyms Technologies,2021-05-14T14:37:54.313Z,2018-11-24T06:52:02.788Z,netsyms_technologies,A,"['netsyms.com', 'netsyms.biz', 'netsyms.org', 'netsyms.net', 'netsyms.dev', 'terranquest.net', 'ntsm.co', 'helpinghelena.org']",https://s3.tosdr.org/logos/837.png
+3620,True,Open Source Initiative,2022-08-11T22:00:48.325Z,2021-05-15T11:19:38.609Z,opensourceorg,B,['opensource.org'],https://s3.tosdr.org/logos/3620.png
+2973,True,Swisscows,2021-05-17T22:00:22.690Z,2021-04-05T21:56:39.736Z,swisscows,A,['swisscows.com'],https://s3.tosdr.org/logos/2973.png
+2182,True,F-Droid,2021-06-14T15:07:48.968Z,2020-02-10T08:13:37.890Z,fdroid,A,"['f-droid.org', 'forum.f-droid.org']",https://s3.tosdr.org/logos/2182.png
+3580,True,Yleisradio,2023-04-24T18:40:03.697Z,2021-05-13T00:34:04.965Z,yleisradio,B,['yle.fi'],https://s3.tosdr.org/logos/3580.png
+3536,True,Google Analytics,2023-07-10T22:01:45.801Z,2021-05-07T19:11:56.494Z,google_analytics,D,"['google-analytics.com', 'analytics.withgoogle.com', 'marketingplatform.google.com']",https://s3.tosdr.org/logos/3536.png
+270,True,Dropbox,2023-07-10T22:01:45.975Z,2018-01-16T15:26:07.195Z,dropbox,D,"['dropbox.com', 'dropboxforum.com']",https://s3.tosdr.org/logos/270.png
+3614,True,Yuka,2023-07-10T22:01:46.103Z,2021-05-14T11:21:19.204Z,yuka,D,['yuka.io'],https://s3.tosdr.org/logos/3614.png
+3615,True,Signal Stickers,2023-04-22T11:49:48.599Z,2021-05-14T15:34:41.974Z,signal_stickers,A,['signalstickers.com'],https://s3.tosdr.org/logos/3615.png
+2535,True,Однокла́ссники (Ok.ru),2023-07-10T22:01:46.302Z,2021-01-16T13:27:03.325Z,_okru,D,['ok.ru'],https://s3.tosdr.org/logos/2535.png
+2844,True,Google Chrome,2023-07-10T22:01:46.401Z,2021-03-18T19:57:27.075Z,chrome_browser,D,['google.com/chrome'],https://s3.tosdr.org/logos/2844.png
+1742,True,National Geographic,2023-07-10T22:01:46.558Z,2019-08-08T06:52:39.460Z,national_geographic,D,['nationalgeographic.org'],https://s3.tosdr.org/logos/1742.png
+490,True,HuffPost,2023-07-10T22:01:46.769Z,2018-05-08T12:19:45.689Z,huffpost,D,"['huffpost.com', 'huffingtonpost.com']",https://s3.tosdr.org/logos/490.png
+370,True,ASKfm,2023-07-10T22:01:47.270Z,2018-05-08T12:19:43.498Z,askfm,D,['https://ask.fm/'],https://s3.tosdr.org/logos/370.png
+462,True,Tinder,2023-07-10T22:01:45.692Z,2018-05-08T12:19:45.226Z,tinder,E,"['tinder.com', 'etl.tindersparks.com', 'tindersparks.com', 'gotinder.com']",https://s3.tosdr.org/logos/462.png
+3625,True,KDE,2022-08-17T20:32:39.463Z,2021-05-16T15:22:25.245Z,kde,A,['kde.org'],https://s3.tosdr.org/logos/3625.png
+3055,True,Doctolib,2021-07-01T18:10:08.142Z,2021-04-07T21:03:17.060Z,doctolib,B,"['doctolib.fr', 'doctolib.com']",https://s3.tosdr.org/logos/3055.png
+3682,True,webmail,2023-07-10T22:01:48.416Z,2021-05-18T19:41:11.461Z,webmail,E,['webmail.co.za'],https://s3.tosdr.org/logos/3682.png
+2845,True,Tor Browser,2023-07-10T22:01:49.001Z,2021-03-18T20:01:10.706Z,tor_browser,C,"['torproject.org', 'dgvdmophvhunawds.onion', 'expyuzz4wqqyqhjn.onion', '3gldbgtv5e4god56.onion']",https://s3.tosdr.org/logos/2845.png
+3624,True,K-9 Mail,2023-07-10T22:01:49.056Z,2021-05-16T09:55:02.280Z,k9_mail,C,['k9mail.app'],https://s3.tosdr.org/logos/3624.png
+4077,True,Fritter,2021-07-02T14:40:19.620Z,2021-06-14T14:30:00.818Z,fritter,A,['fritter.cc'],https://s3.tosdr.org/logos/4077.png
+3684,True,Nulled,2023-07-10T22:01:49.261Z,2021-05-18T20:28:25.783Z,nulled,C,['nulled.to'],https://s3.tosdr.org/logos/3684.png
+3738,True,Gather Town,2023-06-05T22:01:55.704Z,2021-05-22T21:26:15.006Z,gather_town,C,['gather.town'],https://s3.tosdr.org/logos/3738.png
+618,True,Genius,2023-07-10T22:01:50.269Z,2018-07-18T11:13:11.588Z,genius,D,['genius.com'],https://s3.tosdr.org/logos/618.png
+3716,True,Simply Earth,2023-07-10T22:01:49.815Z,2021-05-20T21:36:24.467Z,simply_earth,E,['simplyearth.com'],https://s3.tosdr.org/logos/3716.png
+3804,True,KeePassXC,2021-06-25T22:09:36.138Z,2021-05-28T22:17:18.880Z,keepassxc,B,['keepassxc.org'],https://s3.tosdr.org/logos/3804.png
+180,True,Steam,2023-08-09T06:44:28.206Z,2018-01-16T15:26:05.510Z,steam,D,"['steampowered.com', 'steamcommunity.com', 'steamdeck.com', 's.team', 'steamgames.com']",https://s3.tosdr.org/logos/180.png
+3802,True,Waterfox,2021-06-25T22:00:47.103Z,2021-05-28T19:08:17.361Z,waterfox,A,"['waterfox.net', 'waterfoxproject.org']",https://s3.tosdr.org/logos/3802.png
+3855,True,Guiding Tech,2023-07-10T22:01:52.156Z,2021-05-30T21:03:04.120Z,guiding-tech,D,['guidingtech.com'],https://s3.tosdr.org/logos/3855.png
+3854,True,KidzSearch,2023-07-10T22:01:52.265Z,2021-05-30T21:01:16.163Z,kidzsearch,C,['kidzsearch.com'],https://s3.tosdr.org/logos/3854.png
+200,True,Twitch,2023-07-10T22:01:52.559Z,2018-01-16T15:26:05.813Z,twitch,E,"['twitch.tv', 'twitch.com', 'twitchadvertising.tv', 'igdb.com']",https://s3.tosdr.org/logos/200.png
+3906,True,YouGov,2023-07-10T22:01:53.193Z,2021-06-01T14:23:45.412Z,yougov,E,"['yougov.co.uk', 'yougov.com', 'yougov.fi', 'yougov.dk', 'yougov.de', 'yougov.no', 'yougov.se', 'yougov.chat']",https://s3.tosdr.org/logos/3906.png
+1448,True,TikTok,2023-07-10T22:01:53.361Z,2019-03-14T10:30:13.053Z,tiktok,E,['tiktok.com'],https://s3.tosdr.org/logos/1448.png
+198,True,WhatsApp,2023-07-10T22:01:53.011Z,2018-01-16T15:26:05.773Z,whatsapp,D,"['whatsapp.com', 'wa.me']",https://s3.tosdr.org/logos/198.png
+2695,True,Vox Media,2024-08-20T22:03:55.583Z,2021-02-03T21:04:59.874Z,vox_media,E,"['voxmedia.com', 'voxmediaevents.com', 'coralproject.net', 'concert.io', 'sbnation.com', 'thedodo.com']",https://s3.tosdr.org/logos/2695.png
+3996,True,FreeTube,2021-06-10T22:00:43.840Z,2021-06-09T15:50:00.578Z,freetube,A,['freetubeapp.io'],https://s3.tosdr.org/logos/3996.png
+1817,True,Notion,2023-07-10T22:01:54.408Z,2019-09-01T00:27:31.562Z,notion,C,"['notion.so', 'notion.site']",https://s3.tosdr.org/logos/1817.png
+3964,True,Astronomer,2023-07-10T22:01:54.519Z,2021-06-07T15:01:50.225Z,astronomer,C,['astronomer.io'],https://s3.tosdr.org/logos/3964.png
+4062,True,KeyMe,2023-07-10T22:01:55.189Z,2021-06-12T23:47:53.777Z,keyme,C,['key.me'],https://s3.tosdr.org/logos/4062.png
+4076,True,Aegis Authenticator,2021-06-15T22:00:44.151Z,2021-06-14T14:22:48.241Z,aegis-authenticator,A,['getaegis.app'],https://s3.tosdr.org/logos/4076.png
+4079,True,Stingle Photos,2021-06-15T22:00:44.470Z,2021-06-14T16:30:47.049Z,stingle-photos,B,['stingle.org'],https://s3.tosdr.org/logos/4079.png
+4102,True,YogaDNS,2021-06-15T22:00:44.564Z,2021-06-15T08:36:16.180Z,yogadns,A,['yogadns.com'],https://s3.tosdr.org/logos/4102.png
+4078,True,Open Camera,2023-07-10T22:01:56.042Z,2021-06-14T16:19:45.615Z,open-camera,C,['opencamera.org.uk'],https://s3.tosdr.org/logos/4078.png
+4154,True,ClassDojo,2023-07-10T22:01:56.605Z,2021-06-19T15:31:24.167Z,classdojo,C,['classdojo.com'],https://s3.tosdr.org/logos/4154.png
+4139,True,MIT App Inventor,2023-07-10T22:01:57.346Z,2021-06-19T11:40:41.539Z,mit-app-inventor,D,"['appinventor.mit.edu', 'ai2.appinventor.mit.edu', 'gallery.appinventor.mit.edu']",https://s3.tosdr.org/logos/4139.png
+806,True,Lichess,2023-07-10T22:01:57.596Z,2018-10-31T10:19:13.241Z,lichess,C,['lichess.org'],https://s3.tosdr.org/logos/806.png
+4163,True,Represent,2023-07-10T22:01:57.129Z,2021-06-22T21:12:29.423Z,represent,E,['represent.com'],https://s3.tosdr.org/logos/4163.png
+418,True,Startpage,2021-08-18T22:01:07.206Z,2018-05-08T12:19:44.501Z,startpage,A,['startpage.com'],https://s3.tosdr.org/logos/418.png
+4208,True,Synonymo,2023-07-10T22:01:58.217Z,2021-06-27T16:30:59.248Z,synonymo,C,"['synonymo.fr', 'antonyme.org']",https://s3.tosdr.org/logos/4208.png
+509,True,Free Code Camp,2023-06-05T22:02:04.124Z,2018-05-31T04:56:54.763Z,free_code_camp,B,['freecodecamp.org'],https://s3.tosdr.org/logos/509.png
+2559,True,Briar,2021-06-30T17:16:42.195Z,2021-01-18T19:26:35.560Z,briar,A,['briarproject.org'],https://s3.tosdr.org/logos/2559.png
+4278,True,Jeuxvideo.com,2023-07-10T22:01:58.962Z,2021-06-30T17:29:48.365Z,jeuxvideo-com,D,['jeuxvideo.com'],https://s3.tosdr.org/logos/4278.png
+4304,True,Ouigo,2023-07-10T22:02:00.204Z,2021-07-01T13:46:41.927Z,ouigo,D,['ouigo.com'],https://s3.tosdr.org/logos/4304.png
+4147,True,Remind,2023-07-10T22:02:00.006Z,2021-06-19T12:09:50.778Z,remind,C,['remind.com'],https://s3.tosdr.org/logos/4147.png
+4418,True,TubeBuddy,2023-07-10T22:02:00.817Z,2021-07-03T19:39:11.337Z,tubebuddy,E,['tubebuddy.com'],https://s3.tosdr.org/logos/4418.png
+4463,True,Vercel,2023-07-10T22:02:00.992Z,2021-07-03T22:33:31.604Z,vercel,D,"['vercel.com', 'vercel-insights.com', 'vercel-dns.com', 'vercel.app']",https://s3.tosdr.org/logos/4463.png
+4416,True,ePlus Technology,2023-07-10T22:02:01.114Z,2021-07-03T19:24:28.503Z,eplus-technology,D,['eplus.com'],https://s3.tosdr.org/logos/4416.png
+4423,True,Gandi,2023-07-10T22:02:01.227Z,2021-07-03T19:56:19.793Z,gandi,C,['gandi.net'],https://s3.tosdr.org/logos/4423.png
+4411,True,TechByte Net,2023-07-10T22:02:01.289Z,2021-07-03T19:06:17.813Z,techbyte-net,C,['techbyte.net'],https://s3.tosdr.org/logos/4411.png
+4403,True,Cryptomator,2023-07-10T22:02:00.657Z,2021-07-02T20:46:12.601Z,cryptomator,C,['cryptomator.org'],https://s3.tosdr.org/logos/4403.png
+4521,True,Gettr,2023-07-10T22:02:01.938Z,2021-07-06T01:26:46.865Z,gettr,E,['gettr.com'],https://s3.tosdr.org/logos/4521.png
+4516,True,Audacity,2023-06-05T22:02:08.755Z,2021-07-06T00:46:05.074Z,audacity,B,['audacityteam.org'],https://s3.tosdr.org/logos/4516.png
+4512,True,Index Education,2023-07-10T22:02:02.452Z,2021-07-04T09:41:44.581Z,index-education,C,"['index-education.com', 'index-education.net']",https://s3.tosdr.org/logos/4512.png
+4514,True,Booking.com,2023-07-10T22:02:03.057Z,2021-07-04T14:20:59.878Z,booking-com,E,['booking.com'],https://s3.tosdr.org/logos/4514.png
+1364,True,Brilliant,2023-07-10T22:02:03.424Z,2019-01-29T03:24:53.297Z,brilliant,C,['brilliant.org'],https://s3.tosdr.org/logos/1364.png
+4528,True,Tubi,2023-07-10T22:02:04.176Z,2021-07-06T09:16:56.140Z,tubi,E,['tubitv.com'],https://s3.tosdr.org/logos/4528.png
+4614,True,Porton Private Cloudstorage,2021-07-20T18:10:09.490Z,2021-07-08T01:54:12.458Z,porton-private-cloudstorage,B,['porton.nl'],https://s3.tosdr.org/logos/4614.png
+4617,True,Flatmates,2023-07-10T22:02:04.861Z,2021-07-08T14:17:04.112Z,flatmates,E,['flatmates.com.au'],https://s3.tosdr.org/logos/4617.png
+3153,True,Météo France,2023-07-10T22:02:05.004Z,2021-04-15T10:32:25.385Z,mto_france,D,"['meteofrance.com', 'vigilance.meteofrance.fr', 'meteofrance.fr', 'donneespubliques.meteofrance.fr', 'meteofrance.gp', 'meteo.pf', 'meteofrance.pm', 'education.meteofrance.fr', 'services.meteofrance.com', 'professionnel.meteofrance.com', 'particulier.meteofrance.com']",https://s3.tosdr.org/logos/3153.png
+4560,True,SpaceHey,2023-07-10T22:02:04.654Z,2021-07-06T17:38:02.624Z,spacehey,C,"['spacehey.com', 'im.spacehey.com', 'blog.spacehey.com', 'forum.spacehey.com', 'forums.spacehey.com']",https://s3.tosdr.org/logos/4560.png
+4618,True,Brax.Me,2021-07-09T22:00:51.071Z,2021-07-08T18:34:18.753Z,brax-me,A,['brax.me'],https://s3.tosdr.org/logos/4618.png
+4638,True,Diario AS,2023-07-10T22:02:05.901Z,2021-07-09T22:05:33.916Z,as,D,['as.com'],https://s3.tosdr.org/logos/4638.png
+489,True,Xfinity,2023-07-10T22:02:06.068Z,2018-05-08T12:19:45.675Z,xfinity,D,"['xfinity.com', 'xfinityoncampus.com', 'internetessentials.com']",https://s3.tosdr.org/logos/489.png
+4690,True,codejunkies,2021-07-14T12:40:44.756Z,2021-07-13T20:31:20.567Z,codejunkies,B,['codejunkies.com'],https://s3.tosdr.org/logos/4690.png
+4696,True,JulMan,2021-07-17T22:00:45.572Z,2021-07-13T20:48:21.031Z,julman,A,['julman.fr'],https://s3.tosdr.org/logos/4696.png
+4705,True,Free,2023-07-10T22:02:06.615Z,2021-07-13T21:52:37.845Z,free,D,"['free.fr', 'proxad.net']",https://s3.tosdr.org/logos/4705.png
+4691,True,RethinkDNS,2023-03-29T19:26:14.146Z,2021-07-13T20:36:42.599Z,rethinkdns,A,['rethinkdns.com'],https://s3.tosdr.org/logos/4691.png
+188,True,Firefox Cloud Services,2021-08-02T09:04:46.092Z,2018-01-16T15:26:05.626Z,firefoxaccounts,B,"['accounts.firefox.com', 'lockwise.firefox.com', 'screenshots.firefox.com']",https://s3.tosdr.org/logos/188.png
+4781,True,Marmiton,2023-07-10T22:02:07.460Z,2021-07-20T18:52:18.544Z,marmiton,E,['marmiton.org'],https://s3.tosdr.org/logos/4781.png
+4769,True,Translate,2023-07-10T22:02:07.735Z,2021-07-15T19:36:45.536Z,translate,D,['translate.com'],https://s3.tosdr.org/logos/4769.png
+4774,True,Simitless,2021-11-03T23:01:02.780Z,2021-07-15T20:25:05.009Z,simitless,B,['simitless.com'],https://s3.tosdr.org/logos/4774.png
+4780,True,InfinityFree,2024-01-26T18:46:46.084Z,2021-07-16T20:56:24.583Z,infinityfree,D,"['infinityfree.net', 'infinityfree.com']",https://s3.tosdr.org/logos/4780.png
+4813,True,CodeSandbox,2021-08-12T00:44:16.382Z,2021-08-10T03:02:39.613Z,codesandbox,B,"['codesandbox.io', 'csb.app']",https://s3.tosdr.org/logos/4813.png
+5059,True,Roadtrip Nation,2023-07-10T22:02:10.502Z,2021-09-21T18:29:33.073Z,roadtrip-nation,D,"['roadtripnation.com', ' roadtripnation.org']",https://s3.tosdr.org/logos/5059.png
+5054,True,Yello,2023-07-10T22:02:10.694Z,2021-09-12T17:16:01.361Z,yello,D,['yello.co'],https://s3.tosdr.org/logos/5054.png
+5070,True,Privacy Guides,2022-10-27T21:10:09.993Z,2021-10-01T00:28:49.576Z,privacy-guides,A,"['privacyguides.org', 'privacyguides.net']",https://s3.tosdr.org/logos/5070.png
+5211,True,Truth Social,2023-06-05T22:02:17.372Z,2021-10-21T18:40:59.458Z,truth-social,C,['truthsocial.com'],https://s3.tosdr.org/logos/5211.png
+5516,True,Moodle,2022-12-03T17:10:09.088Z,2021-11-05T02:35:46.037Z,moodle,B,['moodle.com'],https://s3.tosdr.org/logos/5516.png
+5643,True,Ableton,2023-07-10T22:02:15.859Z,2021-11-16T05:35:39.637Z,ableton,C,['ableton.com'],https://s3.tosdr.org/logos/5643.png
+5661,True,Blooket,2023-12-10T21:02:17.297Z,2021-11-17T18:24:50.898Z,blooket,C,['blooket.com'],https://s3.tosdr.org/logos/5661.png
+5630,True,Opera,2023-07-10T22:02:16.473Z,2021-11-16T02:15:42.281Z,opera-gx,D,"['downloadoperagx.com', 'opera.com']",https://s3.tosdr.org/logos/5630.png
+6057,True,Busuu,2023-07-10T22:02:19.132Z,2021-12-13T23:08:27.270Z,busuu,C,['busuu.com'],https://s3.tosdr.org/logos/6057.png
+528,True,Signal,2021-12-29T02:59:25.947Z,2018-06-09T21:33:20.070Z,signal,B,"['signal.org', 'whispersystems.org']",https://s3.tosdr.org/logos/528.png
+6285,True,Pantip.com,2023-07-10T22:02:21.158Z,2022-01-08T19:34:52.349Z,pantip-com,E,['pantip.com'],https://s3.tosdr.org/logos/6285.png
+6429,True,Gap Creek Media,2022-09-22T22:10:10.105Z,2022-03-20T12:03:07.241Z,gap-creek-media,B,['gapcreekmedia.com'],https://s3.tosdr.org/logos/6429.png
+6663,True,Fedora Email,2023-09-07T17:00:57.822Z,2022-06-12T00:00:30.320Z,fedora-email,C,['fedora.email'],https://s3.tosdr.org/logos/6663.png
+182,True,Facebook,2023-07-10T22:02:24.881Z,2018-01-16T15:26:05.533Z,facebook,E,"['facebook.com', 'facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion', 'facebookcorewwwi.onion', 'messenger.com', 'fb.com', 'fbcdn.net', 'facebook.net', 'atdmt.com', 'lrcdn.net', 'atdmt.com', 'atlassolutions.com', 'accountkit.com']",https://s3.tosdr.org/logos/182.png
+6692,True,PussTheCat,2023-07-10T22:02:25.074Z,2022-06-20T20:26:02.102Z,pussthecat,C,['pussthecat.org'],https://s3.tosdr.org/logos/6692.png
+6686,True,Leetify,2023-07-10T22:02:25.321Z,2022-06-20T20:02:12.298Z,leetify,D,['leetify.com'],https://s3.tosdr.org/logos/6686.png
+6742,True,Bereal,2023-07-10T22:02:25.896Z,2022-07-30T23:24:59.818Z,bereal,D,['bereal.com'],https://s3.tosdr.org/logos/6742.png
+6751,True,Odysee,2023-07-10T22:02:26.046Z,2022-08-02T15:48:39.656Z,odysee,D,['odysee.com'],https://s3.tosdr.org/logos/6751.png
+232,True,OpenStreetMap,2023-07-10T22:02:26.895Z,2018-01-16T15:26:06.519Z,openstreetmap,C,"['openstreetmap.org', 'osmfoundation.org', 'stateofthemap.org', 'stateofthemap.com', 'openstreetmap.net', 'openstreetmaps.org', 'openmaps.org', 'osm.org']",https://s3.tosdr.org/logos/232.png
+390,True,F-List,2023-07-10T22:02:27.438Z,2018-05-08T12:19:43.863Z,flist,D,['f-list.net'],https://s3.tosdr.org/logos/390.png
+6820,True,Filen,2023-07-10T22:02:27.530Z,2022-09-05T08:11:54.010Z,filen,C,['filen.io'],https://s3.tosdr.org/logos/6820.png
+2685,True,ADT,2023-07-10T22:02:26.747Z,2021-02-02T19:27:03.914Z,adt,E,"['adt.com', 'myadtdigitalsecurity.com', 'adtpuertoricollc.com', 'myadt.com', 'adt-optout.com', 'adt-unsub.com', 'homeprotectioncenter.com']",https://s3.tosdr.org/logos/2685.png
+7103,True,Pico,2023-07-10T22:02:29.273Z,2022-12-20T20:22:04.477Z,pico,C,['picoxr.com'],https://s3.tosdr.org/logos/7103.png
+1452,True,Pragmatic Blog (DEPRECATED),2022-12-25T01:18:23.899Z,2019-03-23T21:12:54.943Z,pragmatic_blog,A,['pragmader.me'],https://s3.tosdr.org/logos/1452.png
+596,True,ToS;DR,2023-11-17T18:01:03.518Z,2018-07-09T08:24:52.683Z,tosdr,B,"['tosdr.org', 'tosdr.community', 'ybf3byfbutzozmau4elus7zm5feo3cqvy74er4qnxkgicbatzfq3qhqd.onion', 'cphdgvjdcet6ctztiqxabspxqojhafygqtfcjztxxn5jfngizzsp7tqd.onion', 'xkp3bueakhnea3hw4t4izybudyysnoc4jt746z7555mpv2w4p73ihhyd.onion', '6tc72lnilgt4dn2u6qk44vfns2qca552smajbilfcl6zs7ezf7emhbad.onion', '5qicbosngbkejsqpkywunvechlmcivsnhy2u5pbhtxd2laq5p7ufohid.onion']",https://s3.tosdr.org/logos/596.png
+7114,True,Poke,2024-01-21T20:30:05.206Z,2022-12-24T14:03:37.067Z,poketube,A,['poketube.fun'],https://s3.tosdr.org/logos/7114.png
+7188,True,LineageOS,2023-07-10T22:02:32.678Z,2022-12-31T22:53:05.108Z,lineageos,C,['lineageos.org'],https://s3.tosdr.org/logos/7188.png
+6710,True,Return YouTube Dislike,2023-07-10T22:02:33.255Z,2022-06-26T23:40:39.289Z,return-youtube-dislike,C,"['returnyoutubedislike.com', 'returnyoutubedislikeapi.com']",https://s3.tosdr.org/logos/6710.png
+7328,True,Cakey Bot,2024-01-07T12:54:43.047Z,2023-01-22T11:34:58.549Z,cakey-bot,B,"['cakey.bot', 'cakeybot.app']",https://s3.tosdr.org/logos/7328.png
+1487,True,Brave,2023-02-02T22:16:19.998Z,2019-04-10T16:56:13.323Z,brave,B,"['brave.com', 'brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion', 'basicattentiontoken.org', '']",https://s3.tosdr.org/logos/1487.png
+639,True,mastodon.social,2023-07-10T22:02:35.501Z,2018-08-07T13:08:49.660Z,mastodonsocial,C,"['mastodon.social', 'joinmastodon.org', 'mastodon.online']",https://s3.tosdr.org/logos/639.png
+3370,True,Codeberg,2023-02-12T22:22:25.109Z,2021-05-01T18:45:17.233Z,codeberg,A,"['codeberg.org', 'codeberg.page']",https://s3.tosdr.org/logos/3370.png
+7344,True,Meower,2023-12-19T23:02:34.941Z,2023-01-28T13:02:33.587Z,meower,B,['meower.org'],https://s3.tosdr.org/logos/7344.png
+7657,True,Aggro Magnet Games,2023-07-10T22:02:38.055Z,2023-03-18T03:03:32.924Z,aggro-magnet-games,C,['aggromagnetgames.com'],https://s3.tosdr.org/logos/7657.png
+7670,True,Elk.zone,2023-07-10T22:02:38.175Z,2023-03-19T17:31:54.778Z,elk-zone,C,['elk.zone'],https://s3.tosdr.org/logos/7670.png
+3319,True,The Filipino Channel,2023-07-10T22:02:39.809Z,2021-04-28T19:02:10.997Z,the_filipino_channel,D,"['tfc.tv', 'iwanttfc.com']",https://s3.tosdr.org/logos/3319.png
+5049,True,Team SDS,2023-03-29T19:26:17.400Z,2021-09-11T04:43:19.803Z,team-sds,B,['teamsds.net'],https://s3.tosdr.org/logos/5049.png
+5846,True,UptimeRobot,2023-07-10T22:02:40.585Z,2021-11-26T22:02:21.942Z,uptimerobot,D,['uptimerobot.com'],https://s3.tosdr.org/logos/5846.png
+5113,True,Canvas,2023-07-10T22:02:40.713Z,2021-10-14T10:36:09.601Z,canvas,C,['canvas.com'],https://s3.tosdr.org/logos/5113.png
+297,True,GitHub,2023-04-09T11:24:09.977Z,2018-01-16T15:26:07.656Z,github_global_privacy_control,B,"['github.com', 'github.blog', 'github.community', 'githubstatus.com', 'github.io', 'globalprivacycontrol.org']",https://s3.tosdr.org/logos/297.png
+1788,True,Condé Nast,2023-04-22T11:50:41.532Z,2019-08-15T02:56:16.929Z,wired_cond_nast,E,"['wired.com', 'wired.co.uk', 'condenast.com', 'condenast.de', 'condenast.co.uk', 'newyorker.com', 'architecturaldigest.com', 'them.us', 'tatler.com', 'self.com', 'pitchfork.com', 'allure.com', 'arstechnica.com', 'bonappetit.com', 'epicurious.com', 'glamourmagazine.co.uk', 'gq-magazine.co.uk', 'gq.com', 'houseandgarden.co.uk', 'vanityfair.com', 'vogue.co.uk', 'worldofinteriors.com', 'teenvogue.com', 'lacucinaitaliana.com']",https://s3.tosdr.org/logos/1788.png
+1812,True,Healthline,2023-07-10T22:02:44.206Z,2019-08-26T04:10:14.069Z,healthline,E,['healthline.com'],https://s3.tosdr.org/logos/1812.png
+2580,True,Future PLC,2023-07-10T22:02:44.420Z,2021-01-20T18:20:24.204Z,future_plc,E,"['futureplc.com', 'techradar.com', 'musicradar.com', 'gamesradar.com', 'pcgamer.com', 'mixonline.com', 'homesandgardens.com']",https://s3.tosdr.org/logos/2580.png
+2758,True,XE.com,2023-07-10T22:02:44.588Z,2021-02-09T17:57:03.773Z,xecom,D,['xe.com'],https://s3.tosdr.org/logos/2758.png
+576,True,Atlassian,2023-07-10T22:02:44.728Z,2018-06-27T07:00:10.908Z,atlassian_incl_trello_bitbucket,D,"['atlassian.com', 'trello.com', 'bitbucket.org', 'atlassian.net', 'statuspage.io', 'stspg-customer.com']",https://s3.tosdr.org/logos/576.png
+727,True,New York Times,2023-07-10T22:02:45.106Z,2018-09-29T05:59:13.712Z,new_york_times,D,"['nytimes.com', 'nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion']",https://s3.tosdr.org/logos/727.png
+8119,True,Le Figaro,2023-07-10T22:02:45.816Z,2023-04-30T18:00:20.517Z,le-figaro,E,['lefigaro.fr'],https://s3.tosdr.org/logos/8119.png
+8121,True,BFM TV,2023-07-10T22:02:46.015Z,2023-04-30T19:10:58.954Z,bfm-tv,D,"['bfmtv.fr', 'tradingsat.com', 'zone-turf.fr', 'rmcbfmplay.com']",https://s3.tosdr.org/logos/8121.png
+8106,True,Collins Dictionary,2023-07-10T22:02:46.339Z,2023-04-25T03:51:20.103Z,collins-dictionary,D,['collinsdictionary.com'],https://s3.tosdr.org/logos/8106.png
+2455,True,matrix.org,2023-05-10T18:31:48.100Z,2020-12-16T15:03:00.395Z,matrixorg,B,['matrix.org'],https://s3.tosdr.org/logos/2455.png
+8283,True,t2bot.io,2023-07-10T22:02:47.466Z,2023-05-14T02:15:42.767Z,t2bot-io,C,"['t2bot.io', 'status.t2bot.io']",https://s3.tosdr.org/logos/8283.png
+8326,True,ptgms Industries,2024-01-13T00:45:54.835Z,2023-05-15T15:57:54.034Z,ptgms-industries,A,"['ptgms.space', 'ptg.ms', 'comical.site']",https://s3.tosdr.org/logos/8326.png
+5272,True,privacypolicies.com,2023-07-10T22:02:48.312Z,2021-10-26T00:50:24.417Z,privacypolicies-com,E,['privacypolicies.com'],https://s3.tosdr.org/logos/5272.png
+7032,True,GeeksforGeeks,2023-07-10T22:02:48.917Z,2022-11-30T02:19:16.886Z,geeksforgeeks,D,['geeksforgeeks.org'],https://s3.tosdr.org/logos/7032.png
+2039,True,Virtual World Computing Cocoon MyData Rewards,2023-07-10T22:02:49.255Z,2019-12-12T08:10:43.272Z,virtual_world_computing_cocoon_mydata_rewards,E,"['trycocoon.com', 'vworldc.com']",https://s3.tosdr.org/logos/2039.png
+2409,True,Kaspersky,2023-06-05T22:00:39.551Z,2020-11-16T19:48:16.204Z,kaspersky,C,"['kaspersky.com', 'latam.kaspersky.com', 'kaspersky.co.uk', 'kaspersky.com.br', 'usa.kaspersky.com', 'kaspersky.ca', 'africa.kaspersky.com', 'afrique.kaspersky.com', 'algerie.kaspersky.com', 'kaspersky.ma', 'kaspersky.co.za', 'kaspersky.tn', 'me-en.kaspersky.com', 'me.kaspersky.com', 'kaspersky.be', 'kaspersky.dk', 'kaspersky.de', 'kaspersky.es', 'kaspersky.fr', 'kaspersky.it', 'kaspersky.nt', 'kaspersky.no', 'kaspersky.pt', 'kaspersky.se', 'kaspersky.fi', 'kaspersky.cz', 'kaspersky.hu', 'kaspersky.pl', 'kaspersky.ro', 'kaspersky.rs', 'kaspersky.gr', 'kaspersky.bg', 'kaspersky.ru', 'kaspersky.ua', 'kaspersky.com.au', 'kaspersky.co.in', 'kaspersky.com.vn', 'kaspersky.co.th', 'kaspersky.co.kr', 'kaspersky.com.cn', 'kaspersky.com.hk', 'kaspersky..com.tw', 'kaspersky.co.jp', 'support.kaspersky.com']",https://s3.tosdr.org/logos/2409.png
+1003,True,Medium,2023-07-10T22:02:49.509Z,2018-12-23T11:54:11.717Z,medium,D,"['medium.com', 'gopensource.com', 'towardsdatascience.com', 'lftechnology.com']",https://s3.tosdr.org/logos/1003.png
+1511,True,Shopify,2023-07-10T22:02:49.762Z,2019-04-26T01:10:54.725Z,shopify,E,"['shopify.be', 'shopify.cn', 'shopify.co.id', 'shopify.co.kr', 'shopify.co.nz', 'shopify.co.uk', 'shopify.co.za', 'shopify.com.au', 'shopify.com.br', 'shopify.com.co', 'shopify.com.mx', 'shopify.com.ng', 'shopify.com.ph', 'shopify.hk', 'shopify.no', 'shopify.com', 'shopify.de', 'shopify.dk', 'shopify.es', 'shopify.fr', 'shopify.ie', 'shopify.in', 'shopify.jp', 'shopify.my', 'shopify.net.vn', 'shopify.nl', 'shopify.se', 'shopify.tw', 'shopifycompass.com', 'shopify.com.sg', 'shopify.ca', 'shopify.com.nz', 'shopify.dev', 'shopifysvc.com', 'myshopify.com', 'shopifycdn.com', 'fonts.shopifycdn.com', 'shopifynetwork.com']",https://s3.tosdr.org/logos/1511.png
+8420,True,FairTec,2023-09-12T22:02:28.647Z,2023-05-28T16:28:24.287Z,fairtec,A,['fairtec.io'],https://s3.tosdr.org/logos/8420.png
+613,True,Doodle,2023-06-05T22:02:05.862Z,2018-07-16T09:42:45.659Z,doodle,C,['doodle.com'],https://s3.tosdr.org/logos/613.png
+2808,True,Consumer News & Business Channel,2023-07-10T22:02:50.758Z,2021-03-10T13:16:04.194Z,cnbc_consumer_news_business_channel,E,['cnbc.com'],https://s3.tosdr.org/logos/2808.png
+4219,True,Getty Images,2023-07-10T22:02:51.265Z,2021-06-29T17:25:12.536Z,getty-images,E,"['gettyimages.com', 'gettyimages.com.au', 'gettyimages.be', 'gettyimages.com.br', 'gettyimages.ca', 'gettyimages.co.cz', 'gettyimages.dk', 'gettyimages.de', 'gettyimages.es', 'gettyimages.fr', 'nordicphotos.com', 'gettyimages.in', 'gettyimages.ie', 'gettyimages.it', 'gettyimages.com.mx', 'gettyimages.co.hu', 'gettyimages.nl', 'gettyimages.co.nz', 'gettyimages.no', 'gettyimages.at', 'gettyimages.pl', 'gettyimages.com.pt', 'gettyimages.ch', 'gettyimages.co.za', 'gettyimages.fi', 'gettyimages.se', 'gettyimages.ae', 'gettyimages.co.uk', 'gettyimageskorea.com', 'gettyimages.cn', 'gettyimages.hk', 'gettyimages.co.jp']",https://s3.tosdr.org/logos/4219.png
+2811,True,Swiss Government,2023-07-10T22:02:51.842Z,2021-03-10T13:47:38.038Z,swiss_government,C,['admin.ch'],https://s3.tosdr.org/logos/2811.png
+2846,True,Orange,2023-07-10T22:02:51.998Z,2021-03-23T14:03:37.387Z,orange,E,"['orange.com', 'orange-business.com', 'orangeadvertising.fr', 'orange.fr', 'orange.es', 'orange.eg', 'orangemali.com', 'orange.tn', 'orange.sn', 'orange.mu', 'orange.bf', 'orange.ci', 'orange.cm', 'orange.mg', 'orange.co.bw', 'orange-guinee.com', 'orange.com.lr', 'orange.cd', 'orange.jo', 'orange.pl', 'orange.sk', 'orange.ro', 'orange.md', 'orange.be', 'orange.lu', 'orange.ma', '']",https://s3.tosdr.org/logos/2846.png
+4024,True,Just Eat,2023-07-10T22:02:52.118Z,2021-06-09T21:45:44.201Z,just-eat,E,"['justeattakeaway.com', 'just-eat.com', 'thuisbezorgd.nl', 'just-eat.fr', 'takeaway.com', 'lieferando.de', 'pyszne.pl', 'lieferando.at', 'just-eat.ch', '10bis.co.il', 'just-eat.dk', 'just-eat.no', 'just-eat.co.uk', 'menulog.com.au', 'skipthedishes.com', 'just-eat.ie', 'just-eat.es', 'menulog.co.nz', 'justeat.it']",https://s3.tosdr.org/logos/4024.png
+8429,True,Conjuguemos,2024-03-20T19:45:35.210Z,2023-06-01T21:25:23.444Z,conjuguemos,C,['conjuguemos.com'],https://s3.tosdr.org/logos/8429.png
+715,True,BlaBlaCar,2023-07-10T22:02:50.536Z,2018-09-23T19:55:12.440Z,blablacar,E,"['blablacar.be', 'blablacar.co.uk', 'blablacar.com', 'blablacar.com.br', 'blablacar.com.tr', 'blablacar.com.ua', 'blablacar.cz', 'blablacar.de', 'blablacar.es', 'blablacar.fr', 'blablacar.gg', 'blablacar.hr', 'blablacar.hu', 'blablacar.in', 'blablacar.it', 'blablacar.mx', 'blablacar.nl', 'blablacar.pl', 'blablacar.pt', 'blablacar.ro', 'blablacar.ru']",https://s3.tosdr.org/logos/715.png
+3291,True,SC Johnson,2023-07-10T22:02:51.010Z,2021-04-25T12:31:09.270Z,scjbrands_,E,"['scjbrands.com', 'scjohnson.com', 'whatsinsidescjohnson.com', 'bonami.com', 'windex.com', 'kiwicare.com', 'glade.com', 'off.com.ar', 'pyrel.fr', 'autan.fr', 'raid.tm.fr', 'linharaid.com.br', 'ziploc.com.br', 'duck.co.uk', 'patopurific.uy', 'wceend.nl', 'duck.co.th', 'patowc.com', 'toilet-duck.co.za', 'duck.ru', 'toilet-duck.nz', 'patowc.pt', 'patopurific.cl', 'wcente.de', 'duck.co.il', 'wc-duck.it', 'patomexico.com', 'offaustralia.com.au', 'linhaoff.com.br', 'off.ca', 'autan.co', 'off.cr', 'off.com.ec', 'off.com.sv', 'off.com.gt', 'autan.de', 'off.hn', 'autan.id', 'autan.it', 'offmexico.com.mx', 'off.com.ni', 'off.com.pa', 'off.com.pe', 'off.com.ph', 'off.com.pl', 'off-russia.ru', 'autan.com.es', 'off.com', 'offuruguay.com.uy', 'toilet-duck.com.au', 'canardwc.fr', 'mrmuscleclean.com', 'linhagrandprix.com.br', 'linhabravo.com.br', 'ceramicol.com.ar', 'pledge.com', 'scrubbingbubbles.com', 'kabikiller.jp']",https://s3.tosdr.org/logos/3291.png
+2572,True,HP | Hewlett-Packard,2023-07-10T22:02:52.620Z,2021-01-19T20:41:50.559Z,hp_hewlettpackard,E,"['hp.com', 'hpsmart.com', 'hpeprint.com']",https://s3.tosdr.org/logos/2572.png
+4513,True,Prisma Media,2023-07-10T22:02:53.117Z,2021-07-04T10:38:08.636Z,prisma-media,E,"['programme-tv.net', 'prismamedia.com', 'prismamediasolutions.com', 'beaute-addict.com', 'femmeactuelle.fr', 'cuisineactuelle.fr', 'editions-prisma.com', 'prismashop.fr', 'businessinsider.fr', 'caminteresse.fr', 'capital.fr', 'flowmagazine.fr', 'gala.fr', 'hbrfrance.fr', 'neonmag.fr', 'prima.fr', 'programme.tv', 'voici.fr', 'geo.fr']",https://s3.tosdr.org/logos/4513.png
+8721,True,Recipe Realm,2023-08-28T11:02:09.739Z,2023-07-02T17:56:02.739Z,recipe-realm,E,['recipe-realm.com'],https://s3.tosdr.org/logos/8721.png
+187,True,Meredith,2023-07-10T22:02:55.339Z,2018-01-16T15:26:05.614Z,allrecipes,E,"['meredith.com', 'meredithdirectmedia.com', 'people.com', 'peopleenespanol.com', 'allrecipes.com', 'shapehealthhalf.com', 'eatingwell.com', 'shape.com', 'health.com']",https://s3.tosdr.org/logos/187.png
+4447,True,Linguee,2023-07-10T22:02:55.565Z,2021-07-03T21:50:27.184Z,linguee,C,"['linguee.com', 'linguee.com.br', 'linguee.es', 'linguee.fr', 'linguee.de', 'linguee.nl', 'linguee.it', 'linguee.co', 'linguee.cl', 'linguee.cz', 'linguee.dk', 'linguee.gr', 'linguee.jp', 'linguee.mx', 'linguee.pe', 'linguee.pl', 'linguee.pt', 'linguee.ru', 'linguee.hu', 'linguee.com.ar', 'linguee.se']",https://s3.tosdr.org/logos/4447.png
+3255,True,ViacomCBS,2023-07-10T22:02:55.692Z,2021-04-23T19:41:35.998Z,cbs_sports,D,"['viacomcbs.com', 'comicbook.com', 'viacomcbsprivacy.com', 'viacomcbs.legal', 'cbssports.com', 'cbsi.secure.force.com', 'findarticles.com', 'cbsinteractive.com', 'ca.privacy.cbs', 'viacbs.com', 'cbs.com', 'rachaelrayshow.com', 'startrek.com', 'insideedition.com', 'internetbuyer.com']",https://s3.tosdr.org/logos/3255.png
+2458,True,BBVA,2023-07-10T22:02:55.821Z,2020-12-18T05:35:56.970Z,bbva,D,"['bbva.com', 'bbvausa.com', 'bbva.com.ar', 'bbva.fr', 'bbva.pt', 'bbva.com.uy', 'bbva.be', 'bancomer.com', 'bbva.es', 'provincial.com', 'bbva.com.co', 'bbva.com.py', 'bbva.ch', 'bbvacontinental.pe', 'bbvauk.com', 'bbva.mx', 'bbva.pe', 'bbvaciv.com', 'coleccionbbva.com', 'fundacionmicrofinanzasbbva.com', 'fbbva.es', 'bbvanetcash.co.uk', 'bbvanetcash.mx', 'bbvanetcash.es', 'tiendaligabbva.mx', 'fundacionbbvabancomer.org', 'bbvaresearch.com', 'bbva.info', 'bbvafrances.com.ar', 'bbvafinanzia.it', 'mfbbva.org', 'bbvaopenmind.com', 'bbvadata.com', 'segurosprovincial.com', 'fundacionbbvaprovincial.com']",https://s3.tosdr.org/logos/2458.png
+2120,True,Alibaba,2023-07-10T22:02:56.295Z,2020-01-11T07:47:50.674Z,alibaba,E,"['alibaba.com', 'aliexpress.com', 'aliexpress.ru', 'tmall.ru']",https://s3.tosdr.org/logos/2120.png
+195,True,X,2023-09-02T20:55:12.577Z,2018-01-16T15:26:05.726Z,twitter,E,"['twitter.com', 'blog.twitter.com', 'analytics.twitter.com', 'tweetdeck.twitter.com', 'ads-twitter.com', 'twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion', 'x.com']",https://s3.tosdr.org/logos/195.png
+311,True,Snapchat,2023-07-10T22:02:56.684Z,2018-01-16T15:26:08.019Z,snapchat,E,"['snapchat.com', 'sc-cdn.net', 'sc-corp.net', 'sc-gw.com', 'sc-jpl.com', 'sc-prod.net', 'sc-static.net', 'snapads.com', 'snap-dev.net', 'snapkit.com']",https://s3.tosdr.org/logos/311.png
+382,True,Tripadvisor,2023-07-10T22:02:52.359Z,2018-05-08T12:19:43.714Z,tripadvisor,E,"['tripadvisor.com', 'tripadvisor.ca', 'tripadvisor.com.br', 'tripadvisor.com.mx', 'tripadvisor.com.ar', 'tripadvisor.cl', 'tripadvisor.co', 'tripadvisor.com.pe', 'tripadvisor.com.ve', 'tripadvisor.co.uk', 'tripadvisor.it', 'tripadvisor.es', 'tripadvisor.de', 'tripadvisor.fr', 'tripadvisor.se', 'tripadvisor.nl', 'tripadvisor.com.tr', 'tripadvisor.dk', 'tripadvisor.ie', 'tripadvisor.at', 'tripadvisor.com.gr', 'no.tripadvisor.com', 'tripadvisor.pt', 'tripadvisor.ru', 'tripadvisor.ch', 'tripadvisor.be', 'tripadvisor.jp', 'tripadvisor.cn', 'tripadvisor.in', 'tripadvisor.com.au', 'tripadvisor.com.my', 'tripadvisor.co.nz', 'tripadvisor.com.ph', 'tripadvisor.com.sg', 'tripadvisor.co.id', 'tripadvisor.co.kr', 'th.tripadvisor.com', 'tripadvisor.com.vn', 'tripadvisor.com.tw', 'tripadvisor.com.hk', 'ar.tripadvisor.com', 'tripadvisor.com.eg', 'tripadvisor.co.za', 'tripadvisor.co.il']",https://s3.tosdr.org/logos/382.png
+693,True,Viagogo,2023-07-10T22:02:55.111Z,2018-09-04T19:19:58.879Z,viagogo,D,"['viagogo.at', ' viagogo.be', ' viagogo.ca', ' viagogo.ch', ' viagogo.com', ' viagogo.com.tr', ' viagogo.co.uk', ' viagogo.co.za', ' viagogo.de', ' viagogo.dk', ' viagogo.es', ' viagogo.fr', ' viagogo.gr', ' viagogo.ie', ' viagogo.it', ' viagogo.jp', ' viagogo.lu', ' viagogo.com.mx', ' viagogo.nl', ' viagogo.pl', ' viagogo.pt', ' viagogo.se']",https://s3.tosdr.org/logos/693.png
+539,True,Blizzard,2023-07-10T22:02:56.015Z,2018-06-22T01:34:18.629Z,blizzard,E,"['blizzard.com', 'support.blizzard.com', 'careers.blizzard.com', 'us.blizzard.com', 'account.blizzard.com', 'communitytournaments.blizzardesports.com', 'news.blizzard.com', 'shop.blizzard.com', 'us.forums.blizzard.com', 'battle.net', 'shop.battle.net', 'us.shop.battle.net', 'us.battle.net', 'eu.shop.battle.net', 'kr.shop.battle.net', 'tw.shop.battle.net', 'shop.battlenet.com.cn', 'develop.battle.net', 'blizzard.gamespress.com', 'eu.battle.net', 'kr.battle.net', 'tw.battle.net', 'support.blizzardgames.cn', 'playoverwatch.com', 'overwatch2.playoverwatch.com', 'ow.blizzard.cn', 'blizzcon.playoverwatch.com', 'diablo.blizzard.com', 'diablo3.blizzard.com', 'eu.forums.blizzard.com', 'tw.forums.blizzard.com', 'kr.forums.blizzard.com', 'starcraft2.com', 'starcraft.com', 'gold.blizzard.cn', 'sc2.blizzard.cn', 'diabloimmortal.com', 'di.blizzard.cn', 'worldofwarcraft.com', 'wowchina.com', 'playheartstone.com', 'firesidegatherings.com', 'hs.blizzard.cn', 'heroesofthestorm.com', 'heroes.blizzard.cn', 'playwarcraft3.com', 'war3.blizzard.cn']",https://s3.tosdr.org/logos/539.png
+2228,True,MuseScore,2023-09-16T22:02:40.627Z,2020-04-26T00:10:54.428Z,musescore,E,"['musescore.org', 'musescore.com']",https://s3.tosdr.org/logos/2228.png
+3691,True,Neurococi,2023-09-17T10:01:28.451Z,2021-05-18T20:53:52.862Z,neurococi,B,['neurococi.ro'],https://s3.tosdr.org/logos/3691.png
+1815,True,Khan Academy,2023-09-19T22:00:22.972Z,2019-08-28T00:04:40.882Z,khan_academy,D,"['khanacademy.org', 'khanacaydemyannualreport.org']",https://s3.tosdr.org/logos/1815.png
+2196,True,Houseparty,2023-09-19T22:00:27.788Z,2020-03-21T13:53:33.681Z,houseparty,D,"['houseparty.com', 'app.houseparty.com']",https://s3.tosdr.org/logos/2196.png
+894,True,Cloudflare,2023-09-26T21:57:54.688Z,2018-12-19T05:13:52.158Z,cloudflare,D,"['cloudflare.com', 'cloudflare.tv', 'cloudflarestatus.com', 'cloudflare.net', 'cloudflareinsights.com', 'cloudflareaccess.com', 'pages.dev']",https://s3.tosdr.org/logos/894.png
+744,True,Duolingo,2023-09-19T22:00:35.951Z,2018-10-12T14:11:52.044Z,duolingo,C,['duolingo.com'],https://s3.tosdr.org/logos/744.png
+1575,True,Enpass,2023-09-19T22:01:04.252Z,2019-05-18T20:52:07.841Z,enpass,D,['enpass.io'],https://s3.tosdr.org/logos/1575.png
+347,True,GoDaddy,2023-09-19T22:01:14.407Z,2018-05-08T12:19:42.984Z,godaddy,D,"['godaddy.com', 'godaddy.net']",https://s3.tosdr.org/logos/347.png
+319,True,W3Schools,2023-09-19T22:01:15.963Z,2018-01-20T13:57:24.635Z,w3schools,D,"['w3schools.com', 'w3schools.in']",https://s3.tosdr.org/logos/319.png
+3824,True,SpanishDict,2023-09-19T22:01:39.911Z,2021-05-30T18:30:54.527Z,spanishdict,D,"['spanishdict.com', 'ingles.com']",https://s3.tosdr.org/logos/3824.png
+3852,True,Toggl Track,2023-09-19T22:01:40.762Z,2021-05-30T20:58:12.912Z,toggl-track,C,['toggl.com'],https://s3.tosdr.org/logos/3852.png
+1468,True,Ziff Davis,2023-09-19T22:02:28.679Z,2019-03-31T03:54:47.509Z,ziff_davis,D,"['ziffdavis.com', 'ign.com', 'pcmag.com', 'zdbb.net', 'askmen.com', 'extremetech.com', 'techbargains.com', 'mashable.com', 'offers.com', 'couponcodes.com']",https://s3.tosdr.org/logos/1468.png
+856,True,Zoho,2023-09-19T22:02:31.642Z,2018-12-18T13:26:07.995Z,zoho,A,"['zoho.com', 'zoho.eu', 'zoho.in', 'zohopublic.com', 'zohosites.com', 'zohodeveloper.com', 'zoho.com.au', 'zoho.com.cn', 'zoho.jp', 'zohopublic.eu', 'zohopublic.in', 'zohopublic.com.cn', 'zohopublic.com.au', 'zohopublic.jp', 'zohocorp.com', 'zohowebstatic.com', 'zohocdn.com', 'zohosalesiq.com', 'ulaabrowser.com']",https://s3.tosdr.org/logos/856.png
+7734,True,Deveroonie.xyz,2023-09-19T22:02:35.829Z,2023-03-25T17:50:51.946Z,deveroonie-xyz,C,"['deveroonie.xyz', 'cute-tan-tuna-gear.cyclic.app']",https://s3.tosdr.org/logos/7734.png
+536,True,Discord,2023-10-26T10:02:29.266Z,2018-06-20T12:22:06.538Z,discord,E,"['discord.com', 'discord.gg', 'discord.co', 'discordapp.io', 'discord.dev', 'discord.new', 'discord.media', 'discord.design', 'discordapp.com', 'discordapp.net', 'dis.gd', 'discord.gift', 'discordstatus.com', 'discordcdn.com', 'airhorn.solutions', 'airhornbot.com', 'bigbeans.solutions', 'watchanimeattheoffice.com']",https://s3.tosdr.org/logos/536.png
+1563,True,IKEA,2024-06-02T10:02:23.039Z,2019-05-16T19:21:02.552Z,ikea_usa,E,"['ikea.com', 'ikea-schweiz.ch', 'ikea.fr', 'ikea.de', 'ikea.it', 'ikea.at']",https://s3.tosdr.org/logos/1563.png
+2768,True,Unity,2023-09-26T08:15:43.291Z,2021-02-10T10:48:20.605Z,unity,D,"['unity.com', 'unity3d.com']",https://s3.tosdr.org/logos/2768.png
+9853,True,Tickets Plus,2023-11-15T23:03:14.840Z,2023-11-08T17:23:40.996Z,tickets-plus,C,['tickets-plus.techttgames.dev'],https://s3.tosdr.org/logos/9853.png
+190,True,Amazon,2023-11-17T17:20:04.532Z,2018-01-16T15:26:05.657Z,amazon,E,"['amazon.com', 'amazon.com.au', 'amazon.de', 'amazon.co.uk', 'amazon.nl', 'amazon.pl', 'amazon.sa', 'amazon.sg', 'amazon.se', 'amazon.com.tr', 'amazon.ae', 'amazon.co.jp', 'amazon.es', 'amazon.in', 'amazon.ca', 'amazon.fr', 'amazon.it', 'amazon.com.br', 'amazon.cn', 'amazon.com.mx', 'amzn.to', 'amazontrust.com', 'amazongames.com']",https://s3.tosdr.org/logos/190.png
+309,True,Yahoo!,2023-11-17T17:25:13.866Z,2018-01-16T15:26:07.984Z,yahoo,E,"['yahoo.com', 'autoblog.com', 'yahooinc.com', 'adtech.com', 'nexage.com', 'aol.com', 'millennialmedia.com', 'flurry.com', 'aws.oath.cloud', 'oath.cloud', 'advertising.com', 'adtech.de']",https://s3.tosdr.org/logos/309.png
+317,True,Fox News,2023-11-17T19:04:34.479Z,2018-01-20T13:56:43.874Z,fox_news,E,"['foxnews.com', 'foxnewsrundown.com']",https://s3.tosdr.org/logos/317.png
+222,True,DuckDuckGo,2024-04-12T22:01:31.311Z,2018-01-16T15:26:06.270Z,duckduckgo,B,"['duckduckgo.com', '3g2upl4pq6kufc4m.onion', 'spreadprivacy.com', 'duckduckhack.com', 'donttrack.us', 'duck.co', 'duck.com']",https://s3.tosdr.org/logos/222.png
+10665,True,Vouchley,2024-10-16T10:15:26.707Z,2024-02-01T07:40:58.851Z,vouchley,D,['vouchley.com'],https://s3.tosdr.org/logos/10665.png
+7108,True,OpenAI,2024-05-20T14:13:42.381Z,2022-12-22T15:22:43.920Z,openai,D,"['openai.com', 'labs.openai.com', 'beta.openai.com', 'chat.openai.com', 'chatgpt.com']",https://s3.tosdr.org/logos/7108.png
