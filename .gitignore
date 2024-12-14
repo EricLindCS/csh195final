@@ -6,7 +6,7 @@ browser-extensions-master/package-lock.json
 browser-extensions-master/tsc/
 
 #Privates
-gemini_api/api_key.py
+gemini_api/.env
 
 #IP Website
 website/

@@ -3,12 +3,20 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import google.generativeai as genai
-from api_key import API_KEY, MODEL_NAME
 import json
-
+from dotenv import load_dotenv
+import os
 from flask_cors import CORS
 import typing_extensions as typing
 import enum
+
+load_dotenv()
+
+API_KEY = os.getenv('API_KEY')
+MODEL_NAME = os.getenv('MODEL_NAME')
+
+with open('prompt.txt', 'r') as file:
+    prompt = file.read()
 
 class Grade(enum.Enum):
     A_PLUS = "a+"
@@ -121,7 +129,7 @@ def analyze_privacy():
 
     try:
         #model = genai.GenerativeModel(model_name=MODEL_NAME)
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel(model_name=MODEL_NAME)
     except Exception as e:
         print(e)
         return jsonify({"error": f"Failed to load GenAI model: {e}"}), 500
@@ -129,7 +137,8 @@ def analyze_privacy():
     print(privacy_text)
     try:
         response = model.generate_content([
-            "Provide a good/bad/neutral list of things a website visitor should know based on the given privacy policy.",
+            #"Provide a good/bad/neutral list of things a website visitor should know based on the given privacy policy.",
+            prompt,
             privacy_text
         ], 
                                     generation_config=genai.GenerationConfig(
