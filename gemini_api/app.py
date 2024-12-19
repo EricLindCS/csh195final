@@ -58,12 +58,14 @@ def extract_privacy_link(url):
         if privacy_links:
             return privacy_links[0]['href']
 
+        #Present on 50 Websites, Ranked order
         privacy_keywords = [
             'privacy', 'policy', 'terms', 'legal', 'about',
             'confidential', 'security', 'data', 'protection',
             'personal information', 'user data', 'cookie',
             'consent', 'GDPR', 'CCPA', 'HIPAA', 'PII'
         ]
+
         potential_links = soup.find_all('a', href=True, string=lambda text: text and any(keyword in text.lower() for keyword in privacy_keywords))
 
         highest_ranked_link = None
@@ -83,11 +85,11 @@ def extract_privacy_link(url):
         print(f"Error extracting privacy link: {e}")
         return None
 
+#This function is needed if gemini ai generation hits the text cap/cuts off to keep only full elements
 def sanitize_privacy_analysis(privacy_analysis):
-    # Remove the surrounding quotes and split the string into individual elements
+
     elements = re.findall(r"\['(.*?)', '(.*?)'\]", privacy_analysis)
-    
-    # Filter out incomplete elements
+
     sanitized_elements = [list(element) for element in elements if len(element) == 2]
     
     return sanitized_elements
@@ -108,8 +110,6 @@ def analyze_privacy():
     url = url if url.startswith("http") else "http://" + url
 
     print("Revieved Request:", url)
-
-    
 
     privacy_link = extract_privacy_link(url)
     if not privacy_link:
@@ -137,7 +137,6 @@ def analyze_privacy():
     print(privacy_text)
     try:
         response = model.generate_content([
-            #"Provide a good/bad/neutral list of things a website visitor should know based on the given privacy policy.",
             prompt,
             privacy_text
         ], 

@@ -8,5 +8,7 @@ browser-extensions-master/tsc/
 #Privates
 gemini_api/.env
 
+testscripts/api_key.py
+
 #IP Website
 website/
