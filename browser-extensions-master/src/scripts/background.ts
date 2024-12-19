@@ -4,6 +4,8 @@ import * as Sentry from "@sentry/browser";
 const ALLOWED_PROTOCOLS = ['http:', 'https:'];
 
 var apiUrl = 'api.tosdr.org';
+var apiUrl2 = 'https://csh195final.onrender.com';
+
 
 var sentry = false;
 

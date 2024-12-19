@@ -4,6 +4,7 @@ const themeRatingInput = document.getElementById('themeRating') as HTMLInputElem
 const curatorModeInput = document.getElementById('curatorMode') as HTMLInputElement;
 const telemetryInput = document.getElementById('telemetry') as HTMLInputElement;
 const apiInput = document.getElementById('api') as HTMLInputElement;
+const apiInput2 = document.getElementById('api2') as HTMLInputElement;
 
 
 chrome.storage.local.get(
@@ -15,7 +16,8 @@ chrome.storage.local.get(
         'themeHeaderRating',
         'curatorMode',
         'sentry',
-        'api'
+        'api',
+        'api2'
     ],
     function (result) {
         if (result.db) {
@@ -51,6 +53,10 @@ chrome.storage.local.get(
 
         if (result.api) {
             if (result.api.length !== 0) apiInput.value = result.api;
+        }
+
+        if (result.api2) {
+            if (result.api2.length !== 0) apiInput2.value = result.api2;
         }
 
         if (result.sentry) {
@@ -99,6 +105,15 @@ apiInput.addEventListener('change', function () {
         { api: apiInput.value },
         function () {
             console.log('api url has been changed.');
+        }
+    );
+});
+
+apiInput2.addEventListener('change', function () {
+    chrome.storage.local.set(
+        { api2: apiInput2.value },
+        function () {
+            console.log('api2 url has been changed.');
         }
     );
 });
