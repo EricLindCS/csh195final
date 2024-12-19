@@ -1,6 +1,6 @@
 var curatorMode = false;
 
-var apiUrl2 = 'https://csh195final.onrender.com';
+var apiUrl2 = 'csh195final.onrender.com';
 var apiUrl1 = 'api.tosdr.org';
 
 

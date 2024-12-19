@@ -9,6 +9,8 @@ import os
 from flask_cors import CORS
 import typing_extensions as typing
 import enum
+from parsepoints import weightpoints
+
 
 load_dotenv()
 
@@ -150,13 +152,26 @@ def analyze_privacy():
         print(e)
         return jsonify({"error": f"Error during model generation: {e}"}), 500
     
-    #sanitized_elements = sanitize_privacy_analysis(result)
-    #print(sanitized_elements)
-    #return jsonify({"privacy_analysis": sanitized_elements})
+    try:
+        result_json = json.loads(result)
+        sanitized_elements = sanitize_proper_analysis(result)
+        points = result_json.get("points", [])
+        sentences = [point["text"] for point in points]
+        summarized_points = weightpoints(sentences)
+        for point in points:
+            point_text = point["text"]
+            point["value"] = summarized_points.get(point_text, 0)
 
-    sanitized_elements = sanitize_proper_analysis(result)
-    print(sanitized_elements)
-    return jsonify({"privacy_analysis": sanitized_elements})
+        good_points = sorted([point for point in points if point["rating"] == Type.GOOD], key=lambda x: x["value"], reverse=True)[:6]
+        neutral_points = sorted([point for point in points if point["rating"] == Type.NEUTRAL], key=lambda x: x["value"], reverse=True)[:6]
+        bad_points = sorted([point for point in points if point["rating"] == Type.BAD], key=lambda x: x["value"], reverse=True)[:6]
+
+        top_points = good_points + neutral_points + bad_points
+
+    except Exception as e:
+        return jsonify({"error": f"Error processing points: {e}"}), 500
+
+    return jsonify({"privacy_analysis": top_points})
 
 if __name__ == '__main__':
     app.run(debug=True)
